@@ -18,22 +18,30 @@ English:
 
 ## 仓库结构 / Repository structure
 
-- `README.md` / `README_EN.md`：条目清单本体，按 9 大场景分组；
-- `images/`：原帖截图索引，按两位编号命名（`00.png`、`01.png` …）；
-- `skill/`：本仓库作为「JEV 用法参考库」被模型 / Agent 加载的入口。`skill/SKILL.md` 定义了 Agent 如何读取本仓库、按 9 大场景索引定位案例，并引用 `images/` 截图与原始 X 链接为用户生成玩法建议。
+- `SKILL.md`：本仓库作为「JEV 用法参考库」被模型 / Agent 加载的入口（仓库根目录即 Skill 包，Agent 扫描根目录 `SKILL.md` 即自动生效）；
+- `references/index.json`：68 条案例的结构化数据（idx / title / author / url / scene / summary / jev_score / jev_highlight / jev_focus / category），是 Agent 检索与推荐的数据源；
+- `images/`：原帖截图索引，按两位编号命名（`00.png`、`01.png` …），与 `references/index.json` 的 `idx` 一一对应；
+- `README.md` / `README_EN.md`：条目清单本体，按 9 大场景分组，面向人类阅读。
 
-**新增案例时**：
-- 若只是在**已有 9 大场景**下追加条目，请把新条目的编号（idx）补进 `skill/SKILL.md` 中「按场景的索引提示 / Index by scene」对应场景的 idx 列表；
-- 若新案例属于一个**现有 9 大场景装不下的全新场景**，请在追加 README 条目的同时，在 `skill/SKILL.md` 的索引一节新增该场景及其条目编号，保持 Agent 可检索到。
+**新增案例时必须同步更新四处**：
+1. `references/index.json`：追加一条记录（字段齐全，`idx` 顺延）；
+2. `images/`：放入原帖截图，文件名与新 `idx` 对齐；
+3. `README.md`：在对应场景分组末尾追加条目；
+4. `README_EN.md`：同步追加英文条目。
+- 若新案例属于一个**现有 9 大场景装不下的全新场景**，请在 `SKILL.md` 的「9 大应用场景」清单中同步新增该场景，保持 Agent 可检索。
 
 English:
-- `README.md` / `README_EN.md`: the entry list itself, grouped into 9 scenes;
-- `images/`: original-post screenshots indexed by two-digit number (`00.png`, `01.png`, …);
-- `skill/`: the entry point through which models/agents load this repo as a "JEV usage reference library". `skill/SKILL.md` defines how an agent reads the repo, locates cases by the 9-scene index, and references the `images/` screenshots and original X links to suggest usage patterns.
+- `SKILL.md`: the entry point through which models/agents load this repo as a "JEV usage reference library" (the repo root itself is the skill package; agents that scan for root-level `SKILL.md` pick it up automatically);
+- `references/index.json`: structured data for all 68 cases (idx / title / author / url / scene / summary / jev_score / jev_highlight / jev_focus / category), the data source agents search and recommend from;
+- `images/`: original-post screenshots indexed by two-digit number (`00.png`, `01.png`, …), one-to-one with the `idx` field in `references/index.json`;
+- `README.md` / `README_EN.md`: the entry list itself, grouped into 9 scenes, for human readers.
 
-**When adding a case:**
-- If it only extends one of the **existing 9 scenes**, append the new entry's idx to that scene's list in the "Index by scene" section of `skill/SKILL.md`;
-- If it belongs to a **brand-new scene** that none of the existing 9 covers, add that scene together with its entry idx to `skill/SKILL.md` at the same time, so agents can still find it.
+**When adding a case, you must update all four:**
+1. `references/index.json`: append one record (all fields filled, `idx` incremented);
+2. `images/`: add the original-post screenshot, filename matching the new `idx`;
+3. `README.md`: append the entry at the end of the matching scene group;
+4. `README_EN.md`: append the English entry in sync.
+- If it belongs to a **brand-new scene** that none of the existing 9 covers, add that scene to the "9 application scenes" list in `SKILL.md` as well, so agents can still find it.
 
 ## 流程 / Process
 
@@ -42,7 +50,7 @@ This repo ships two READMEs: `README.md` (Chinese default) and `README_EN.md` (E
 
 1. Fork 本仓库 / fork this repo；
 2. 新建分支 `feat/case-<short-name>`；
-3. 添加截图 + 在 `README.md` 对应 scene 分组末尾追加一条目（格式照抄现有条目）；
+3. 添加截图 + 更新 `references/index.json` + 在 `README.md` 与 `README_EN.md` 对应 scene 分组末尾各追加一条目（格式照抄现有条目）；
 4. 开 PR，说明新增了哪几条、为什么值得收录。
 
 PR 会在 1–2 天内 review。截图版权归原发帖人，请确认你有权转载作为索引使用。

@@ -9,17 +9,35 @@
 
 ## 🧠 可作 Skill 使用
 
-> 本仓库**不只是一个清单，更是一个可被模型 / Agent 直接加载的 JEV 技能包**——自带 `skill/` 目录与 `skill/SKILL.md`。
+> 本仓库**不只是一个清单，更是一个可被模型 / Agent 直接加载的 JEV 技能包**——仓库根目录即 Skill 包，自带 `SKILL.md` 与 `references/index.json`（68 条案例数据）。
 
-任何 Agent 都可以把本仓库当作「JEV 用法参考库」直接加载进上下文：**即便用户没有主动说想怎么用 Jev，Agent 也能依据这里的真实案例，主动推荐合适的玩法模式**，而不是干巴巴回一句"Jev 是个小模型"。
+任何 Agent 都可以把本仓库当作「JEV 用法参考库」直接加载：**即便用户没有主动说想怎么用 Jev，Agent 也能依据这里的真实案例，主动推荐合适的玩法模式**，而不是干巴巴回一句"Jev 是个小模型"。
 
 它的工作方式很简单：
 
-1. Agent 读取 `skill/SKILL.md`，拿到 9 大场景的分组索引；
-2. 按用户意图跳到对应场景，挑出其中的 ⭐ Jev 精选案例；
+1. Agent 读取根目录 `SKILL.md`，再加载 `references/index.json` 拿到 68 条案例与 9 大场景索引；
+2. 按用户意图跳到对应场景，优先挑出 ⭐ Jev 精选 + 高评分案例；
 3. 结合 `images/` 里的原帖截图与原始 X 链接，为用户生成具体、可落地的玩法建议。
 
 换句话说，这 68 个案例既是给人看的收藏夹，也是可以直接喂给 Agent 的「Jev 玩法说明书」。
+
+## 📦 安装
+
+把仓库 clone 到你的 skills 目录即可一键安装：
+
+```bash
+git clone https://github.com/Ai-trainee/awesome-jev.git <你的skills目录>/awesome-jev
+# 例如
+git clone https://github.com/Ai-trainee/awesome-jev.git ~/.user_skills/awesome-jev
+```
+
+也可以用 GitHub CLI：
+
+```bash
+gh repo clone Ai-trainee/awesome-jev <你的skills目录>/awesome-jev
+```
+
+安装后 Agent 扫描到根目录 `SKILL.md` 即自动生效，会读取 `references/index.json` + `images/` 主动为你推荐 Jev 玩法，无需额外配置。
 
 ## Jev 是什么
 
