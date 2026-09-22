@@ -23,7 +23,14 @@ In short, these 68 cases are both a human-readable collection and a "Jev playboo
 
 ## 📦 Installation
 
-Clone the repo into your skills directory — that's it:
+**Method 1: Copy to any agent (Recommended)** — copy the natural-language block below to Doubao / Claude / Codex or any agent, and it will install automatically, no manual commands needed:
+
+> Please install the awesome-jev Skill for me:
+> 1. Clone/download the GitHub repository https://github.com/Ai-trainee/awesome-jev into your skills directory, keeping the folder name awesome-jev (e.g. workspace/.user_skills/awesome-jev, or wherever your environment loads skills from);
+> 2. Verify the root of the cloned folder contains SKILL.md;
+> 3. Load and activate the Skill, then tell me what it can do and how to use it.
+
+**Method 2: Manual commands (Backup)**
 
 ```bash
 git clone https://github.com/Ai-trainee/awesome-jev.git <your-skills-dir>/awesome-jev

@@ -23,7 +23,14 @@
 
 ## 📦 安装
 
-把仓库 clone 到你的 skills 目录即可一键安装：
+**方式一：复制给任意 Agent（推荐）** —— 把下面这段文字复制给豆包 / Claude / Codex 等任意 Agent，即可自动完成安装，无需手动敲命令：
+
+> 帮我安装 awesome-jev 这个 Skill：
+> 1. 从 GitHub 仓库 https://github.com/Ai-trainee/awesome-jev 克隆/下载到你的 skills 目录下，目录名保持 awesome-jev（例如 workspace/.user_skills/awesome-jev；如果你的环境用别的 skills 目录，就装到对应的那个）；
+> 2. 确认克隆后的目录根目录有 SKILL.md 文件；
+> 3. 加载并激活这个 Skill，然后告诉我它能做什么、装好后可以怎么用。
+
+**方式二：手动命令（备选）**
 
 ```bash
 git clone https://github.com/Ai-trainee/awesome-jev.git <你的skills目录>/awesome-jev
