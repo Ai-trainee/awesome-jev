@@ -16,6 +16,25 @@ English:
 - In the PR description, list: original author (@handle), which of the 9 existing scenes it belongs to, and a one-line English/Chinese summary;
 - Do not edit existing entries' title / author / url / jev_score — scoring is done by maintainers.
 
+## 仓库结构 / Repository structure
+
+- `README.md` / `README_EN.md`：条目清单本体，按 9 大场景分组；
+- `images/`：原帖截图索引，按两位编号命名（`00.png`、`01.png` …）；
+- `skill/`：本仓库作为「JEV 用法参考库」被模型 / Agent 加载的入口。`skill/SKILL.md` 定义了 Agent 如何读取本仓库、按 9 大场景索引定位案例，并引用 `images/` 截图与原始 X 链接为用户生成玩法建议。
+
+**新增案例时**：
+- 若只是在**已有 9 大场景**下追加条目，请把新条目的编号（idx）补进 `skill/SKILL.md` 中「按场景的索引提示 / Index by scene」对应场景的 idx 列表；
+- 若新案例属于一个**现有 9 大场景装不下的全新场景**，请在追加 README 条目的同时，在 `skill/SKILL.md` 的索引一节新增该场景及其条目编号，保持 Agent 可检索到。
+
+English:
+- `README.md` / `README_EN.md`: the entry list itself, grouped into 9 scenes;
+- `images/`: original-post screenshots indexed by two-digit number (`00.png`, `01.png`, …);
+- `skill/`: the entry point through which models/agents load this repo as a "JEV usage reference library". `skill/SKILL.md` defines how an agent reads the repo, locates cases by the 9-scene index, and references the `images/` screenshots and original X links to suggest usage patterns.
+
+**When adding a case:**
+- If it only extends one of the **existing 9 scenes**, append the new entry's idx to that scene's list in the "Index by scene" section of `skill/SKILL.md`;
+- If it belongs to a **brand-new scene** that none of the existing 9 covers, add that scene together with its entry idx to `skill/SKILL.md` at the same time, so agents can still find it.
+
 ## 流程 / Process
 
 本仓库含两个 README：`README.md`（中文默认）与 `README_EN.md`（英文）；新增条目时请同步更新两个文件。

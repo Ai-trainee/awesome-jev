@@ -7,6 +7,20 @@
 
 📊 68 posts · 9 application scenes · 50 Jev highlights
 
+## 🧠 Works as a Skill
+
+> This repo is **not just a list — it is a JEV skill pack that models and agents can load directly**: it ships with a `skill/` directory and a `skill/SKILL.md`.
+
+Any agent can load this repository as a "JEV usage reference library" straight into its context. **Even when the user never says how they want to use Jev, the agent can proactively suggest the right play patterns** based on the real cases collected here — instead of just replying "Jev is a small model."
+
+The workflow is straightforward:
+
+1. The agent reads `skill/SKILL.md` and gets the index of all 9 scene categories;
+2. It jumps to the scene matching the user's intent and picks the ⭐ Jev highlight cases inside;
+3. It combines the `images/` screenshots with the original X links to generate concrete, actionable usage suggestions for the user.
+
+In other words, these 68 cases are both a curated collection for humans and a ready-to-hand "Jev playbook" you can load into an agent.
+
 ## What is Jev?
 
 Jev is a lightweight, millisecond-scale execution model, often paired with a large model in a "big-model reasoning + small-model execution" Agent architecture: the LLM plans and reasons, while Jev handles high-frequency, cheap, deterministic decisions and actions. This repository collects real-world usage cases of Jev from the community.
