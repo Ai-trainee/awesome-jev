@@ -18,6 +18,9 @@ English:
 
 ## 流程 / Process
 
+本仓库含两个 README：`README.md`（中文默认）与 `README_EN.md`（英文）；新增条目时请同步更新两个文件。
+This repo ships two READMEs: `README.md` (Chinese default) and `README_EN.md` (English); please keep both in sync when adding entries.
+
 1. Fork 本仓库 / fork this repo；
 2. 新建分支 `feat/case-<short-name>`；
 3. 添加截图 + 在 `README.md` 对应 scene 分组末尾追加一条目（格式照抄现有条目）；
