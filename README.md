@@ -358,36 +358,36 @@ Jev 是一个轻量、毫秒级执行模型，常与大模型配对，构成「�
 
 以下 30 个开源项目精选自社区 Jev 生态目录，经 Jev 独立评分筛选，覆盖工具、路由、浏览器、交易、游戏等场景。点击项目名跳转 GitHub。
 
-- **[jev-review (devagrawal09)](https://github.com/devagrawal09/jev-review)** — ★366 · TypeScript · Jev 评分 55 · 工具与产品 · ⭐ Jev 精选
-- **[jevbench](https://github.com/fstandhartinger/jevbench)** — ★67 · Python · Jev 评分 55 · 成本与性能 · ⭐ Jev 精选
-- **[kev](https://github.com/jaredpalmer/kev)** — ★1558 · Python · Jev 评分 54 · 工具与产品 · ⭐ Jev 精选
-- **[NanoJev](https://github.com/TianyuCodings/NanoJev)** — ★1074 · Python · Jev 评分 52 · 成本与性能 · ⭐ Jev 精选
-- **[jev-mcp (jkudish)](https://github.com/jkudish/jev-mcp)** — ★121 · TypeScript · Jev 评分 52 · 工具与产品
-- **[fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — ★4427 · TypeScript · Jev 评分 51 · 工具与产品
-- **[open-jev (daseinlabs)](https://github.com/daseinlabs/open-jev)** — ★56 · Python · Jev 评分 51 · 成本与性能
-- **[hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills)** — ★345 · Python · Jev 评分 50 · 工具与产品 · ⭐ Jev 精选
-- **[jev-review (NiazMorshed2007)](https://github.com/NiazMorshed2007/jev-review)** — ★171 · TypeScript · Jev 评分 50 · 工具与产品 · ⭐ Jev 精选
-- **[jev-browser-use](https://github.com/wy-coliney/jev-browser-use)** — ★206 · JavaScript · Jev 评分 50 · 工具与产品
-- **[jev-search](https://github.com/superagents-lab/jev-search)** — ★244 · TypeScript · Jev 评分 49 · 工具与产品
-- **[jevlike](https://github.com/vinnylarouge/jevlike)** — ★1008 · Python · Jev 评分 47 · 成本与性能 · ⭐ Jev 精选
-- **[jeff](https://github.com/logan-markewich/jeff)** — ★189 · Python · Jev 评分 47 · 工具与产品 · ⭐ Jev 精选
-- **[jev-lint](https://github.com/mizchi/jev-lint)** — ★55 · TypeScript · Jev 评分 47 · 工具与产品 · ⭐ Jev 精选
-- **[jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser)** — ★126 · JavaScript · Jev 评分 46 · 工具与产品 · ⭐ Jev 精选
-- **[jev-code](https://github.com/devagrawal09/jev-code)** — ★75 · TypeScript · Jev 评分 46 · 工具与产品 · ⭐ Jev 精选
-- **[LocalJev](https://github.com/githubnext/localjev)** — ★662 · TypeScript · Jev 评分 46 · 工具与产品
-- **[jev-router (gargpratyush)](https://github.com/gargpratyush/jev-router)** — ★214 · JavaScript · Jev 评分 46 · 工具与产品
-- **[jev-browser](https://github.com/jkudish/jev-browser)** — ★155 · TypeScript · Jev 评分 46 · 工具与产品
-- **[openjev](https://github.com/razorback16/openjev)** — ★142 · Python · Jev 评分 46 · 工具与产品
-- **[mobile-jev](https://github.com/droidrun/mobile-jev)** — ★240 · JavaScript · Jev 评分 44 · 工具与产品
-- **[Simple Jev](https://github.com/featherless-ai/simple-jev)** — ★429 · Python · Jev 评分 43 · 工具与产品
-- **[jev-trader](https://github.com/jarrodwatts/jev-trader)** — ★1349 · TypeScript · Jev 评分 41 · 工具与产品 · ⭐ Jev 精选
-- **[jev-trade](https://github.com/aowang-ai/jev-trade)** — ★29 · TypeScript · Jev 评分 36 · 工具与产品
-- **[embodied-jev](https://github.com/FBddcz/embodied-jev)** — ★164 · Python · Jev 评分 35 · 工具与产品 · ⭐ Jev 精选
-- **[jev-drone](https://github.com/RomanSlack/jev-drone)** — ★77 · Python · Jev 评分 34 · 工具与产品
-- **[jev-robot-control](https://github.com/openroboto-ai/jev-robot-control)** — ★38 · Python · Jev 评分 33 · 工具与产品
-- **[tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier)** — ★314 · TypeScript · Jev 评分 23 · 内容与营销
-- **[prism-liquidity-agent](https://github.com/irfndi/prism-liquidity-agent)** — ★69 · TypeScript · Jev 评分 18 · 工具与产品
-- **[hippo-memory](https://github.com/kitfunso/hippo-memory)** — ★752 · TypeScript · Jev 评分 9 · 工具与产品
+- **[jev-review (devagrawal09)](https://github.com/devagrawal09/jev-review)** — ★366 · TypeScript · Jev 评分 55 · 工具与产品 · ⭐ Jev 精选 — A staged code-review workflow and local dashboard built with TypeSafe Jev.
+- **[jevbench](https://github.com/fstandhartinger/jevbench)** — ★67 · Python · Jev 评分 55 · 成本与性能 · ⭐ Jev 精选 — JevBench v1 - a benchmark for Jev-class typed decision models: smart, cheap, fast, reliable, open.
+- **[kev](https://github.com/jaredpalmer/kev)** — ★1558 · Python · Jev 评分 54 · 工具与产品 · ⭐ Jev 精选 — Trainable family of small Qwen-based Jev-like decision models with typed primitives, datasets, evaluation tools, and local inference.
+- **[NanoJev](https://github.com/TianyuCodings/NanoJev)** — ★1074 · Python · Jev 评分 52 · 成本与性能 · ⭐ Jev 精选 — Open 0.6B Jev replica with parallel decisions, complete probability distributions, training pipeline, weights, dataset, and live demos.
+- **[jev-mcp (jkudish)](https://github.com/jkudish/jev-mcp)** — ★121 · TypeScript · Jev 评分 52 · 工具与产品 — Proof of concept MCP for Typesafe's new Jev AI model.
+- **[fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — ★4427 · TypeScript · Jev 评分 51 · 工具与产品 — Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
+- **[open-jev (daseinlabs)](https://github.com/daseinlabs/open-jev)** — ★56 · Python · Jev 评分 51 · 成本与性能 — One-pass option scoring with a local Gemma 3 4B on Apple silicon via MLX, inspired by jevlike, with a Doom demo.
+- **[hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills)** — ★345 · Python · Jev 评分 50 · 工具与产品 · ⭐ Jev 精选 — Hermes plugin and skill suite using Jev for model routing, skill selection, memory filtering, compaction, and GUI actions.
+- **[jev-review (NiazMorshed2007)](https://github.com/NiazMorshed2007/jev-review)** — ★171 · TypeScript · Jev 评分 50 · 工具与产品 · ⭐ Jev 精选 — Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.
+- **[jev-browser-use](https://github.com/wy-coliney/jev-browser-use)** — ★206 · JavaScript · Jev 评分 50 · 工具与产品 — 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.
+- **[jev-search](https://github.com/superagents-lab/jev-search)** — ★244 · TypeScript · Jev 评分 49 · 工具与产品 — Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API.
+- **[jevlike](https://github.com/vinnylarouge/jevlike)** — ★1008 · Python · Jev 评分 47 · 成本与性能 · ⭐ Jev 精选 — Train a small model that chooses among a changing list of text options, one probability per option in a single pass. Includes Doom, chess, and Wikispeedia demos.
+- **[jeff](https://github.com/logan-markewich/jeff)** — ★189 · Python · Jev 评分 47 · 工具与产品 · ⭐ Jev 精选 — Self-hosted Jev-compatible System One server backed by GLiNER-family models, with batching and typed question support.
+- **[jev-lint](https://github.com/mizchi/jev-lint)** — ★55 · TypeScript · Jev 评分 47 · 工具与产品 · ⭐ Jev 精选 — Text linter that uses Jev Score judgments to evaluate strings embedded in source code against configurable writing rules.
+- **[jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser)** — ★126 · JavaScript · Jev 评分 46 · 工具与产品 · ⭐ Jev 精选 — Control a real browser by voice. Jev (TypeSafe System One) decides intent + target in ~300 ms per spoken word; Playwright acts — often before you finish the sentence.
+- **[jev-code](https://github.com/devagrawal09/jev-code)** — ★75 · TypeScript · Jev 评分 46 · 工具与产品 · ⭐ Jev 精选 — Bounded TypeSafe Jev workflows for coding agents.
+- **[LocalJev](https://github.com/githubnext/localjev)** — ★662 · TypeScript · Jev 评分 46 · 工具与产品 — Local Jev-compatible System One API that converts typed questions into DiffusionGemma classification prompts and probabilities.
+- **[jev-router (gargpratyush)](https://github.com/gargpratyush/jev-router)** — ★214 · JavaScript · Jev 评分 46 · 工具与产品 — Route to the cheapest model in claude code for your task using jev-router.
+- **[jev-browser](https://github.com/jkudish/jev-browser)** — ★155 · TypeScript · Jev 评分 46 · 工具与产品 — Browser use using Typesafe's Jev model.
+- **[openjev](https://github.com/razorback16/openjev)** — ★142 · Python · Jev 评分 46 · 工具与产品 — Open, Jev-compatible System One decision server on DiffusionGemma.
+- **[mobile-jev](https://github.com/droidrun/mobile-jev)** — ★240 · JavaScript · Jev 评分 44 · 工具与产品 — Standalone Android agent for Mobilerun where Jev makes every decision, with a live React studio and an Uber demo.
+- **[Simple Jev](https://github.com/featherless-ai/simple-jev)** — ★429 · Python · Jev 评分 43 · 工具与产品 — Open-model Jev-style server that reads next-token logits to return typed choices, rubric scores, and truth judgments.
+- **[jev-trader](https://github.com/jarrodwatts/jev-trader)** — ★1349 · TypeScript · Jev 评分 41 · 工具与产品 · ⭐ Jev 精选 — One AI trade decision every Monad block. Jev on Kuru MON-USDC.
+- **[jev-trade](https://github.com/aowang-ai/jev-trade)** — ★29 · TypeScript · Jev 评分 36 · 工具与产品 — Live Jev trader on Hyperliquid.
+- **[embodied-jev](https://github.com/FBddcz/embodied-jev)** — ★164 · Python · Jev 评分 35 · 工具与产品 · ⭐ Jev 精选 — EmbodiedJev: MuJoCo robot decision workbench with MiniCPM5-2B, Jev and compatible model APIs
+- **[jev-drone](https://github.com/RomanSlack/jev-drone)** — ★77 · Python · Jev 评分 34 · 工具与产品 — Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev) in the loop at 2.5Hz.
+- **[jev-robot-control](https://github.com/openroboto-ai/jev-robot-control)** — ★38 · Python · Jev 评分 33 · 工具与产品 — MuJoCo xArm7 study where Jev chooses movement directions and gripper actions from physical feedback.
+- **[tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier)** — ★314 · TypeScript · Jev 评分 23 · 内容与营销 — Tax-document classifier where Jev selects an IRS form and page kind from extracted PDF text.
+- **[prism-liquidity-agent](https://github.com/irfndi/prism-liquidity-agent)** — ★69 · TypeScript · Jev 评分 18 · 工具与产品 — Solana liquidity agent with optional Jev shadow judgments for deposit choice, toxic flow, and market-regime stress.
+- **[hippo-memory](https://github.com/kitfunso/hippo-memory)** — ★752 · TypeScript · Jev 评分 9 · 工具与产品 — Agent memory library with an optional Jev reranker that judges which retrieved memories are relevant.
 
 ## 其他
 
