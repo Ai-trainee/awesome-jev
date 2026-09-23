@@ -16,11 +16,13 @@ description: Jev/TypeSafe System One 模型用法参考库，收录 68 条全网
 3. **排序优选**：在匹配结果中优先展示 `jev_highlight=true`（Jev 精选）且 `jev_score` 高的条目。
 4. **结合素材输出**：每条案例对应 `images/{idx:02d}.png` 原帖截图与 `url` 原始 X 链接，引用时同时给出截图与链接，让用户可跳转原文。
 5. **主动推荐**：若用户未指定场景，按 `jev_focus` 看点标签（成本与性能 / 架构与方法 / 工具与产品 / 生态与热度 / 内容与营销）跨场景挑 3–5 条代表性案例推荐。
+6. **项目条目**：`type=project` 的条目为开源项目，无 `images/` 截图、`url` 为 GitHub 仓库链接，推荐时直接给出仓库链接与 stars/语言信息。
 
 ## 数据字段说明（references/index.json）
 | 字段 | 含义 |
 |---|---|
-| `idx` | 案例编号，与 `images/{idx:02d}.png` 一一对应 |
+| `type` | 条目类型：`post`（X 帖子案例）或 `project`（开源项目） |
+| `idx` | 帖子编号（仅 type=post），与 `images/{idx:02d}.png` 一一对应 |
 | `title` | 原帖标题（原文） |
 | `author` | 发帖作者（含 X handle） |
 | `url` | 原始 X 链接（纯链接，可直接跳转） |
@@ -29,7 +31,9 @@ description: Jev/TypeSafe System One 模型用法参考库，收录 68 条全网
 | `jev_score` | Jev 独立评分（0–100） |
 | `jev_highlight` | 是否 Jev 精选（true/false，共 50 条） |
 | `jev_focus` | 看点标签 |
-| `category` | 用户自定义分类（可为空） |
+| `category` | 用户自定义分类（可为空，仅 type=post） |
+| `stars` | GitHub stars（仅 type=project） |
+| `language` | 项目主语言（仅 type=project） |
 | `note` | 特殊说明（如 idx=52 原推文已删、idx=67 无原始链接） |
 
 ## 9 大应用场景

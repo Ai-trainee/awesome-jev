@@ -1,11 +1,11 @@
 # awesome-jev
 [English version →](README_EN.md)
 
-![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
+![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![项目](https://img.shields.io/badge/projects-30-purple) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
 **全网 JEV 玩法案例库 · 持续更新中** —— 收录来自 X / 博客 / 论坛 / 论文等全网的 Jev 实战用法，不只限 X 平台。
 
-📊 68 条帖子 · 9 大应用场景 · 50 条 Jev 精选
+📊 68 条帖子 + 30 个开源项目 · 9 大应用场景 · 50 条 Jev 精选
 
 ## 🧠 可作 Skill 使用
 
@@ -65,6 +65,7 @@ Jev 是一个轻量、毫秒级执行模型，常与大模型配对，构成「�
 - [教程与资源](#教程与资源)
 - [模型路由与决策](#模型路由与决策)
 - [上下文压缩](#上下文压缩)
+- [🛠 开源项目精选](#开源项目精选)
 - [其他](#其他)
 
 ## 浏览器与电脑自动化
@@ -352,6 +353,41 @@ Jev 是一个轻量、毫秒级执行模型，常与大模型配对，构成「�
 - **被 Claude Fable 5.1 限制困扰的人：用 Jev 大幅改善（198赞）** — Claude code研究ラボ (claudecode84) · Jev 评分 46 · 工具与产品
   ![](images/53.png)
   [🔗 在 X 上查看](https://x.com/claudecode84/status/2100810733076590784)
+
+## 🛠 开源项目精选
+
+以下 30 个开源项目精选自社区 Jev 生态目录，经 Jev 独立评分筛选，覆盖工具、路由、浏览器、交易、游戏等场景。点击项目名跳转 GitHub。
+
+- **[jev-review (devagrawal09)](https://github.com/devagrawal09/jev-review)** — ★366 · TypeScript · Jev 评分 55 · 工具与产品 · ⭐ Jev 精选
+- **[jevbench](https://github.com/fstandhartinger/jevbench)** — ★67 · Python · Jev 评分 55 · 成本与性能 · ⭐ Jev 精选
+- **[kev](https://github.com/jaredpalmer/kev)** — ★1558 · Python · Jev 评分 54 · 工具与产品 · ⭐ Jev 精选
+- **[NanoJev](https://github.com/TianyuCodings/NanoJev)** — ★1074 · Python · Jev 评分 52 · 成本与性能 · ⭐ Jev 精选
+- **[jev-mcp (jkudish)](https://github.com/jkudish/jev-mcp)** — ★121 · TypeScript · Jev 评分 52 · 工具与产品
+- **[fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — ★4427 · TypeScript · Jev 评分 51 · 工具与产品
+- **[open-jev (daseinlabs)](https://github.com/daseinlabs/open-jev)** — ★56 · Python · Jev 评分 51 · 成本与性能
+- **[hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills)** — ★345 · Python · Jev 评分 50 · 工具与产品 · ⭐ Jev 精选
+- **[jev-review (NiazMorshed2007)](https://github.com/NiazMorshed2007/jev-review)** — ★171 · TypeScript · Jev 评分 50 · 工具与产品 · ⭐ Jev 精选
+- **[jev-browser-use](https://github.com/wy-coliney/jev-browser-use)** — ★206 · JavaScript · Jev 评分 50 · 工具与产品
+- **[jev-search](https://github.com/superagents-lab/jev-search)** — ★244 · TypeScript · Jev 评分 49 · 工具与产品
+- **[jevlike](https://github.com/vinnylarouge/jevlike)** — ★1008 · Python · Jev 评分 47 · 成本与性能 · ⭐ Jev 精选
+- **[jeff](https://github.com/logan-markewich/jeff)** — ★189 · Python · Jev 评分 47 · 工具与产品 · ⭐ Jev 精选
+- **[jev-lint](https://github.com/mizchi/jev-lint)** — ★55 · TypeScript · Jev 评分 47 · 工具与产品 · ⭐ Jev 精选
+- **[jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser)** — ★126 · JavaScript · Jev 评分 46 · 工具与产品 · ⭐ Jev 精选
+- **[jev-code](https://github.com/devagrawal09/jev-code)** — ★75 · TypeScript · Jev 评分 46 · 工具与产品 · ⭐ Jev 精选
+- **[LocalJev](https://github.com/githubnext/localjev)** — ★662 · TypeScript · Jev 评分 46 · 工具与产品
+- **[jev-router (gargpratyush)](https://github.com/gargpratyush/jev-router)** — ★214 · JavaScript · Jev 评分 46 · 工具与产品
+- **[jev-browser](https://github.com/jkudish/jev-browser)** — ★155 · TypeScript · Jev 评分 46 · 工具与产品
+- **[openjev](https://github.com/razorback16/openjev)** — ★142 · Python · Jev 评分 46 · 工具与产品
+- **[mobile-jev](https://github.com/droidrun/mobile-jev)** — ★240 · JavaScript · Jev 评分 44 · 工具与产品
+- **[Simple Jev](https://github.com/featherless-ai/simple-jev)** — ★429 · Python · Jev 评分 43 · 工具与产品
+- **[jev-trader](https://github.com/jarrodwatts/jev-trader)** — ★1349 · TypeScript · Jev 评分 41 · 工具与产品 · ⭐ Jev 精选
+- **[jev-trade](https://github.com/aowang-ai/jev-trade)** — ★29 · TypeScript · Jev 评分 36 · 工具与产品
+- **[embodied-jev](https://github.com/FBddcz/embodied-jev)** — ★164 · Python · Jev 评分 35 · 工具与产品 · ⭐ Jev 精选
+- **[jev-drone](https://github.com/RomanSlack/jev-drone)** — ★77 · Python · Jev 评分 34 · 工具与产品
+- **[jev-robot-control](https://github.com/openroboto-ai/jev-robot-control)** — ★38 · Python · Jev 评分 33 · 工具与产品
+- **[tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier)** — ★314 · TypeScript · Jev 评分 23 · 内容与营销
+- **[prism-liquidity-agent](https://github.com/irfndi/prism-liquidity-agent)** — ★69 · TypeScript · Jev 评分 18 · 工具与产品
+- **[hippo-memory](https://github.com/kitfunso/hippo-memory)** — ★752 · TypeScript · Jev 评分 9 · 工具与产品
 
 ## 其他
 

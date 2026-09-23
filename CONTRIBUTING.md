@@ -30,6 +30,11 @@ English:
 4. `README_EN.md`：同步追加英文条目。
 - 若新案例属于一个**现有 9 大场景装不下的全新场景**，请在 `SKILL.md` 的「9 大应用场景」清单中同步新增该场景，保持 Agent 可检索。
 
+**开源项目精选分区维护**：
+- 项目条目来源为社区 Jev 生态目录（heyjunpenn/awesome-jev）同步 + Jev 独立评分筛选；
+- 新增项目时需在 `references/index.json` 追加 `type=project` 条目（含 stars/language/url），并在 README 双版「开源项目精选」分区追加对应条目；
+- 项目条目无截图、无 X 链接，`url` 直接指向 GitHub 仓库。
+
 English:
 - `SKILL.md`: the entry point through which models/agents load this repo as a "JEV usage reference library" (the repo root itself is the skill package; agents that scan for root-level `SKILL.md` pick it up automatically);
 - `references/index.json`: structured data for all 68 cases (idx / title / author / url / scene / summary / jev_score / jev_highlight / jev_focus / category), the data source agents search and recommend from;

@@ -1,11 +1,11 @@
 # awesome-jev
 [中文版 →](README.md)
 
-![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
+![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![项目](https://img.shields.io/badge/projects-30-purple) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
 **The comprehensive JEV playbook · continuously updated** — real-world Jev usage curated from X, blogs, forums, papers, and more (not limited to X).
 
-📊 68 posts · 9 application scenes · 50 Jev highlights
+📊 68 posts + 30 open-source projects · 9 application scenes · 50 Jev highlights
 
 ## 🧠 Works as a Skill
 
@@ -353,6 +353,41 @@ Many people don't know what Jev can actually do. These 68 real cases show typica
 - **被 Claude Fable 5.1 限制困扰的人：用 Jev 大幅改善（198赞）** — Claude code研究ラボ (claudecode84) · Jev score 46 · 工具与产品
   ![](images/53.png)
   [🔗 View on X](https://x.com/claudecode84/status/2100810733076590784)
+
+## 🛠 Featured Projects
+
+30 open-source projects curated from the community Jev ecosystem catalog, scored and filtered by Jev, covering tools, routing, browser automation, trading, gaming, and more. Click a project name to open its GitHub repo.
+
+- **[jev-review (devagrawal09)](https://github.com/devagrawal09/jev-review)** — ★366 · TypeScript · Jev score 55 · Tools & Products · ⭐ Jev highlight
+- **[jevbench](https://github.com/fstandhartinger/jevbench)** — ★67 · Python · Jev score 55 · Cost & Performance · ⭐ Jev highlight
+- **[kev](https://github.com/jaredpalmer/kev)** — ★1558 · Python · Jev score 54 · Tools & Products · ⭐ Jev highlight
+- **[NanoJev](https://github.com/TianyuCodings/NanoJev)** — ★1074 · Python · Jev score 52 · Cost & Performance · ⭐ Jev highlight
+- **[jev-mcp (jkudish)](https://github.com/jkudish/jev-mcp)** — ★121 · TypeScript · Jev score 52 · Tools & Products
+- **[fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — ★4427 · TypeScript · Jev score 51 · Tools & Products
+- **[open-jev (daseinlabs)](https://github.com/daseinlabs/open-jev)** — ★56 · Python · Jev score 51 · Cost & Performance
+- **[hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills)** — ★345 · Python · Jev score 50 · Tools & Products · ⭐ Jev highlight
+- **[jev-review (NiazMorshed2007)](https://github.com/NiazMorshed2007/jev-review)** — ★171 · TypeScript · Jev score 50 · Tools & Products · ⭐ Jev highlight
+- **[jev-browser-use](https://github.com/wy-coliney/jev-browser-use)** — ★206 · JavaScript · Jev score 50 · Tools & Products
+- **[jev-search](https://github.com/superagents-lab/jev-search)** — ★244 · TypeScript · Jev score 49 · Tools & Products
+- **[jevlike](https://github.com/vinnylarouge/jevlike)** — ★1008 · Python · Jev score 47 · Cost & Performance · ⭐ Jev highlight
+- **[jeff](https://github.com/logan-markewich/jeff)** — ★189 · Python · Jev score 47 · Tools & Products · ⭐ Jev highlight
+- **[jev-lint](https://github.com/mizchi/jev-lint)** — ★55 · TypeScript · Jev score 47 · Tools & Products · ⭐ Jev highlight
+- **[jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser)** — ★126 · JavaScript · Jev score 46 · Tools & Products · ⭐ Jev highlight
+- **[jev-code](https://github.com/devagrawal09/jev-code)** — ★75 · TypeScript · Jev score 46 · Tools & Products · ⭐ Jev highlight
+- **[LocalJev](https://github.com/githubnext/localjev)** — ★662 · TypeScript · Jev score 46 · Tools & Products
+- **[jev-router (gargpratyush)](https://github.com/gargpratyush/jev-router)** — ★214 · JavaScript · Jev score 46 · Tools & Products
+- **[jev-browser](https://github.com/jkudish/jev-browser)** — ★155 · TypeScript · Jev score 46 · Tools & Products
+- **[openjev](https://github.com/razorback16/openjev)** — ★142 · Python · Jev score 46 · Tools & Products
+- **[mobile-jev](https://github.com/droidrun/mobile-jev)** — ★240 · JavaScript · Jev score 44 · Tools & Products
+- **[Simple Jev](https://github.com/featherless-ai/simple-jev)** — ★429 · Python · Jev score 43 · Tools & Products
+- **[jev-trader](https://github.com/jarrodwatts/jev-trader)** — ★1349 · TypeScript · Jev score 41 · Tools & Products · ⭐ Jev highlight
+- **[jev-trade](https://github.com/aowang-ai/jev-trade)** — ★29 · TypeScript · Jev score 36 · Tools & Products
+- **[embodied-jev](https://github.com/FBddcz/embodied-jev)** — ★164 · Python · Jev score 35 · Tools & Products · ⭐ Jev highlight
+- **[jev-drone](https://github.com/RomanSlack/jev-drone)** — ★77 · Python · Jev score 34 · Tools & Products
+- **[jev-robot-control](https://github.com/openroboto-ai/jev-robot-control)** — ★38 · Python · Jev score 33 · Tools & Products
+- **[tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier)** — ★314 · TypeScript · Jev score 23 · Content & Marketing
+- **[prism-liquidity-agent](https://github.com/irfndi/prism-liquidity-agent)** — ★69 · TypeScript · Jev score 18 · Tools & Products
+- **[hippo-memory](https://github.com/kitfunso/hippo-memory)** — ★752 · TypeScript · Jev score 9 · Tools & Products
 
 ## Other
 
