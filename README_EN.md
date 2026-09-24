@@ -3,7 +3,7 @@
 
 ![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![项目](https://img.shields.io/badge/projects-30-purple) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
-**The comprehensive JEV playbook · continuously updated** — real-world Jev usage curated from X, blogs, forums, papers, and more (not limited to X).
+**The comprehensive JEV playbook · continuously updated** — real-world Jev usage and 30 featured open-source projects curated from X, blogs, forums, papers, and more (not limited to X).
 
 📊 68 posts + 30 open-source projects · 9 application scenes · 50 Jev highlights
 ## 🛠 Featured Projects
@@ -64,7 +64,7 @@ In short, these 98 cases (68 posts + 30 projects) are both a human-readable coll
 > 2. Verify the root of the cloned folder contains SKILL.md;
 > 3. Load and activate the Skill, then tell me what it can do and how to use it.
 
-Once installed, any agent that scans for root-level `SKILL.md` will pick it up automatically — it reads `references/index.json` + `images/` and proactively suggests Jev play patterns, no extra config needed.
+Once installed, any agent that scans for root-level `SKILL.md` will pick it up automatically — it reads `references/index.json` (98 cases: 68 posts + 30 projects) + `images/` and proactively suggests Jev play patterns, no extra config needed.
 
 
 ## What is Jev?

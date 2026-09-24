@@ -3,7 +3,7 @@
 
 ![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![项目](https://img.shields.io/badge/projects-30-purple) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
-**全网 JEV 玩法案例库 · 持续更新中** —— 收录来自 X / 博客 / 论坛 / 论文等全网的 Jev 实战用法，不只限 X 平台。
+**全网 JEV 玩法案例库 · 持续更新中** —— 收录来自 X / 博客 / 论坛 / 论文等全网的 Jev 实战用法，并精选 30 个开源项目，不只限 X 平台。
 
 📊 68 条帖子 + 30 个开源项目 · 9 大应用场景 · 50 条 Jev 精选
 ## 🛠 开源项目精选
@@ -64,7 +64,7 @@
 > 2. 确认克隆后的目录根目录有 SKILL.md 文件；
 > 3. 加载并激活这个 Skill，然后告诉我它能做什么、装好后可以怎么用。
 
-安装后 Agent 扫描到根目录 `SKILL.md` 即自动生效，会读取 `references/index.json` + `images/` 主动为你推荐 Jev 玩法，无需额外配置。
+安装后 Agent 扫描到根目录 `SKILL.md` 即自动生效，会读取 `references/index.json`（98 条案例：68 帖 + 30 开源项目）+ `images/` 主动为你推荐 Jev 玩法，无需额外配置。
 
 ## Jev 是什么
 
