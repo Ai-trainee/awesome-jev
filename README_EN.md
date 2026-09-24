@@ -6,6 +6,25 @@
 **The comprehensive JEV playbook · continuously updated** — real-world Jev usage and 30 featured open-source projects curated from X, blogs, forums, papers, and more (not limited to X).
 
 📊 68 posts + 30 open-source projects · 9 application scenes · 50 Jev highlights
+
+## Contents
+
+- [🛠 Featured Projects](#featured-projects)
+- [🧠 Works as a Skill](#works-as-a-skill)
+- [📦 Installation](#installation)
+- [What is Jev?](#what-is-jev)
+- [Why this list](#why-this-list)
+- [Browser & Computer Automation](#browser--computer-automation)
+- [Gaming & Real-time Interaction](#gaming--real-time-interaction)
+- [Trading & Finance](#trading--finance)
+- [Ecosystem & Hype](#ecosystem--hype)
+- [Development & Tools](#development--tools)
+- [Content Categorization & SEO](#content-categorization--seo)
+- [Tutorials & Resources](#tutorials--resources)
+- [Model Routing & Decision-Making](#model-routing--decision-making)
+- [Context Compression](#context-compression)
+- [Other](#other)
+
 ## 🛠 Featured Projects
 
 30 open-source projects curated from the community Jev ecosystem catalog, scored and filtered by Jev, covering tools, routing, browser automation, trading, gaming, and more. Click a project name to open its GitHub repo.
@@ -74,20 +93,6 @@ Jev is a lightweight, millisecond-scale execution model, often paired with a lar
 ## Why this list
 
 Many people don't know what Jev can actually do. These 68 posts + 30 open-source projects show typical playbooks across browser automation, gaming, trading, model routing and more. When a user does not specify a scene, this list can be used to proactively suggest the right pattern. The screenshots here are used as an index only; copyright belongs to the original authors.
-
-## Contents
-
-- [🛠 Featured Projects](#开源项目精选)
-- [Browser & Computer Automation](#浏览器与电脑自动化)
-- [Gaming & Real-time Interaction](#游戏与实时交互)
-- [Trading & Finance](#交易与金融)
-- [Ecosystem & Hype](#生态与热度)
-- [Development & Tools](#开发与工具)
-- [Content Categorization & SEO](#内容分类与SEO)
-- [Tutorials & Resources](#教程与资源)
-- [Model Routing & Decision-Making](#模型路由与决策)
-- [Context Compression](#上下文压缩)
-- [Other](#其他)
 
 ## Browser & Computer Automation
 
