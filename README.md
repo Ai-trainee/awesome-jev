@@ -9,8 +9,8 @@
 
 ## 目录
 
-- [🧠 可作 Skill 使用](#skill-usage)
-- [📦 安装](#installation)
+- [🧠 可作 Skill 使用](#user-content-skill-usage)
+- [📦 安装](#user-content-installation)
 - [Jev 是什么](#jev-是什么)
 - [为什么有这个清单](#为什么有这个清单)
 - [浏览器与电脑自动化](#浏览器与电脑自动化)
@@ -22,7 +22,7 @@
 - [教程与资源](#教程与资源)
 - [模型路由与决策](#模型路由与决策)
 - [上下文压缩](#上下文压缩)
-- [⭐ 开源项目精选](#open-source-projects)
+- [⭐ 开源项目精选](#user-content-open-source-projects)
 - [其他](#其他)
 
 ## <a id="skill-usage"></a>🧠 可作 Skill 使用

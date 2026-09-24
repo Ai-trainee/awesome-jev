@@ -9,8 +9,8 @@
 
 ## Contents
 
-- [🧠 Works as a Skill](#skill-usage)
-- [📦 Installation](#installation)
+- [🧠 Works as a Skill](#user-content-skill-usage)
+- [📦 Installation](#user-content-installation)
 - [What is Jev?](#what-is-jev)
 - [Why this list](#why-this-list)
 - [Browser & Computer Automation](#browser--computer-automation)
@@ -22,7 +22,7 @@
 - [Tutorials & Resources](#tutorials--resources)
 - [Model Routing & Decision-Making](#model-routing--decision-making)
 - [Context Compression](#context-compression)
-- [⭐ Featured Projects](#open-source-projects)
+- [⭐ Featured Projects](#user-content-open-source-projects)
 - [Other](#other)
 
 ## <a id="skill-usage"></a>🧠 Works as a Skill
