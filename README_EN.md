@@ -9,7 +9,7 @@
 
 ## Contents
 
-- [🧠 Works as a Skill](#works-as-a-skill)
+- [🧠 Works as a Skill](#skill-usage)
 - [📦 Installation](#installation)
 - [What is Jev?](#what-is-jev)
 - [Why this list](#why-this-list)
@@ -22,10 +22,10 @@
 - [Tutorials & Resources](#tutorials--resources)
 - [Model Routing & Decision-Making](#model-routing--decision-making)
 - [Context Compression](#context-compression)
-- [🛠 Featured Projects](#featured-projects)
+- [⭐ Featured Projects](#open-source-projects)
 - [Other](#other)
 
-## 🧠 Works as a Skill
+## <a id="skill-usage"></a>🧠 Works as a Skill
 
 > This repo is **not just a list — it is a JEV skill pack that models and agents can load directly**: the repo root itself is the skill package, shipping with `SKILL.md` and `references/index.json` (98 curated cases: 68 posts + 30 projects).
 
@@ -39,7 +39,7 @@ The workflow is straightforward:
 
 In short, these 98 cases (68 posts + 30 projects) are both a human-readable collection and a "Jev playbook" that can be fed directly to any agent.
 
-## 📦 Installation
+## <a id="installation"></a>📦 Installation
 
 **Method 1: Copy to any agent (Recommended)** — copy the natural-language block below to Doubao / Claude / Codex or any agent, and it will install automatically, no manual commands needed:
 
@@ -346,7 +346,7 @@ Many people don't know what Jev can actually do. These 68 posts + 30 open-source
   [🔗 View on X](https://x.com/claudecode84/status/2100810733076590784)
 
 
-## 🛠 Featured Projects
+## <a id="open-source-projects"></a>⭐ Featured Projects
 
 30 open-source projects curated from the community Jev ecosystem catalog, scored and filtered by Jev, covering tools, routing, browser automation, trading, gaming, and more. Click a project name to open its GitHub repo.
 
