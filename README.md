@@ -9,7 +9,6 @@
 
 ## 目录
 
-- [🛠 开源项目精选](#开源项目精选)
 - [🧠 可作 Skill 使用](#可作-skill-使用)
 - [📦 安装](#安装)
 - [Jev 是什么](#jev-是什么)
@@ -23,42 +22,8 @@
 - [教程与资源](#教程与资源)
 - [模型路由与决策](#模型路由与决策)
 - [上下文压缩](#上下文压缩)
+- [🛠 开源项目精选](#开源项目精选)
 - [其他](#其他)
-
-## 🛠 开源项目精选
-
-以下 30 个开源项目精选自社区 Jev 生态目录，经 Jev 独立评分筛选，覆盖工具、路由、浏览器、交易、游戏等场景。点击项目名跳转 GitHub。
-
-- **[jev-review (devagrawal09)](https://github.com/devagrawal09/jev-review)** — ★366 · TypeScript · Jev 评分 55 · 工具与产品 · ⭐ Jev 精选 — 基于 TypeSafe Jev 的分阶段代码审查工作流 + 本地看板。
-- **[jevbench](https://github.com/fstandhartinger/jevbench)** — ★67 · Python · Jev 评分 55 · 成本与性能 · ⭐ Jev 精选 — JevBench v1 —— Jev 类类型化决策模型的基准测试：智能、廉价、快速、可靠、开放。
-- **[kev](https://github.com/jaredpalmer/kev)** — ★1558 · Python · Jev 评分 54 · 工具与产品 · ⭐ Jev 精选 — 基于 Qwen 的可训练小型 Jev 类决策模型家族，含类型化原语、数据集、评估工具与本地推理。
-- **[NanoJev](https://github.com/TianyuCodings/NanoJev)** — ★1074 · Python · Jev 评分 52 · 成本与性能 · ⭐ Jev 精选 — 开源 0.6B Jev 复刻版：并行决策、完整概率分布、训练管线、权重、数据集与在线演示。
-- **[jev-mcp (jkudish)](https://github.com/jkudish/jev-mcp)** — ★121 · TypeScript · Jev 评分 52 · 工具与产品 — TypeSafe Jev 模型的 MCP 概念验证实现。
-- **[fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — ★4427 · TypeScript · Jev 评分 51 · 工具与产品 — Claude Code 插件：用 Jev 决策替代压缩摘要——一次快速请求内为每次工具调用与结果打分，过时内容被丢弃或截断，保留内容逐字不动。
-- **[open-jev (daseinlabs)](https://github.com/daseinlabs/open-jev)** — ★56 · Python · Jev 评分 51 · 成本与性能 — 受 jevlike 启发，通过 MLX 在 Apple 芯片上用本地 Gemma 3 4B 做单遍选项评分，附带 Doom 演示。
-- **[hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills)** — ★345 · Python · Jev 评分 50 · 工具与产品 · ⭐ Jev 精选 — Hermes 插件与技能套件：用 Jev 做模型路由、技能选择、记忆过滤、上下文压缩与 GUI 操作。
-- **[jev-review (NiazMorshed2007)](https://github.com/NiazMorshed2007/jev-review)** — ★171 · TypeScript · Jev 评分 50 · 工具与产品 · ⭐ Jev 精选 — 由 Jev 驱动的本地优先 MCP 插件，供 AI 编程代理做持续软件质量审查。
-- **[jev-browser-use](https://github.com/wy-coliney/jev-browser-use)** — ★206 · JavaScript · Jev 评分 50 · 工具与产品 — 浏览器操作快 5–10 倍：Jev 负责点击，Codex 负责思考与验证（EZCollegeApp 出品）。
-- **[jev-search](https://github.com/superagents-lab/jev-search)** — ★244 · TypeScript · Jev 评分 49 · 工具与产品 — 用 TypeSafe Jev 搜索网页：信源选择、查询理解与相关性排序（基于 Search1API）。
-- **[jevlike](https://github.com/vinnylarouge/jevlike)** — ★1008 · Python · Jev 评分 47 · 成本与性能 · ⭐ Jev 精选 — 训练一个小模型，在变化的文本选项列表中做选择，单遍输出每个选项的概率；含 Doom、国际象棋与 Wikispeedia 演示。
-- **[jeff](https://github.com/logan-markewich/jeff)** — ★189 · Python · Jev 评分 47 · 工具与产品 · ⭐ Jev 精选 — 自托管的 Jev 兼容 System One 服务器，基于 GLiNER 系列模型，支持批处理与类型化问题。
-- **[jev-lint](https://github.com/mizchi/jev-lint)** — ★55 · TypeScript · Jev 评分 47 · 工具与产品 · ⭐ Jev 精选 — 文本 lint 工具：用 Jev Score 判定按可配置写作规则评估源码内嵌字符串。
-- **[jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser)** — ★126 · JavaScript · Jev 评分 46 · 工具与产品 · ⭐ Jev 精选 — 用语音控制真实浏览器：Jev 每词约 300ms 判定意图与目标，Playwright 执行——往往你说完前就完成了。
-- **[jev-code](https://github.com/devagrawal09/jev-code)** — ★75 · TypeScript · Jev 评分 46 · 工具与产品 · ⭐ Jev 精选 — 面向编程代理的有界 TypeSafe Jev 工作流。
-- **[LocalJev](https://github.com/githubnext/localjev)** — ★662 · TypeScript · Jev 评分 46 · 工具与产品 — 本地 Jev 兼容 System One API：把类型化问题转为 DiffusionGemma 分类提示与概率。
-- **[jev-router (gargpratyush)](https://github.com/gargpratyush/jev-router)** — ★214 · JavaScript · Jev 评分 46 · 工具与产品 — 用 jev-router 在 Claude Code 里为你的任务路由到最便宜的模型。
-- **[jev-browser](https://github.com/jkudish/jev-browser)** — ★155 · TypeScript · Jev 评分 46 · 工具与产品 — 用 TypeSafe Jev 模型做浏览器操作。
-- **[openjev](https://github.com/razorback16/openjev)** — ★142 · Python · Jev 评分 46 · 工具与产品 — 基于 DiffusionGemma 的开放 Jev 兼容 System One 决策服务器。
-- **[mobile-jev](https://github.com/droidrun/mobile-jev)** — ★240 · JavaScript · Jev 评分 44 · 工具与产品 — 面向 Mobilerun 的独立 Android 代理：Jev 做每个决策，附实时 React 工作室与 Uber 演示。
-- **[Simple Jev](https://github.com/featherless-ai/simple-jev)** — ★429 · Python · Jev 评分 43 · 工具与产品 — 开源模型 Jev 风格服务器：读取 next-token logits，返回类型化选择、评分与真值判定。
-- **[jev-trader](https://github.com/jarrodwatts/jev-trader)** — ★1349 · TypeScript · Jev 评分 41 · 工具与产品 · ⭐ Jev 精选 — 每个 Monad 区块一次 AI 交易决策；Jev 运行于 Kuru 的 MON-USDC。
-- **[jev-trade](https://github.com/aowang-ai/jev-trade)** — ★29 · TypeScript · Jev 评分 36 · 工具与产品 — Hyperliquid 上的实时 Jev 交易机器人。
-- **[embodied-jev](https://github.com/FBddcz/embodied-jev)** — ★164 · Python · Jev 评分 35 · 工具与产品 · ⭐ Jev 精选 — EmbodiedJev：基于 MuJoCo 的机器人决策工作台，集成 MiniCPM5-2B、Jev 及兼容模型 API。
-- **[jev-drone](https://github.com/RomanSlack/jev-drone)** — ★77 · Python · Jev 评分 34 · 工具与产品 — MuJoCo 中仅依赖摄像头的自主无人机：小模型（TypeSafe Jev）以 2.5Hz 参与决策环路。
-- **[jev-robot-control](https://github.com/openroboto-ai/jev-robot-control)** — ★38 · Python · Jev 评分 33 · 工具与产品 — MuJoCo xArm7 研究：Jev 根据物理反馈选择运动方向与夹爪动作。
-- **[tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier)** — ★314 · TypeScript · Jev 评分 23 · 内容与营销 — 税务文档分类器：Jev 从提取的 PDF 文本中选出 IRS 表单与页面类型。
-- **[prism-liquidity-agent](https://github.com/irfndi/prism-liquidity-agent)** — ★69 · TypeScript · Jev 评分 18 · 工具与产品 — Solana 流动性代理：可选的 Jev 影子判定用于存款选择、有毒流与市场状态压力。
-- **[hippo-memory](https://github.com/kitfunso/hippo-memory)** — ★752 · TypeScript · Jev 评分 9 · 工具与产品 — 代理记忆库：可选的 Jev 重排序器判定哪些检索到的记忆相关。
 
 ## 🧠 可作 Skill 使用
 
@@ -379,6 +344,41 @@ Jev 是一个轻量、毫秒级执行模型，常与大模型配对，构成「�
   ![](images/53.png)
   [🔗 在 X 上查看](https://x.com/claudecode84/status/2100810733076590784)
 
+
+## 🛠 开源项目精选
+
+以下 30 个开源项目精选自社区 Jev 生态目录，经 Jev 独立评分筛选，覆盖工具、路由、浏览器、交易、游戏等场景。点击项目名跳转 GitHub。
+
+- **[jev-review (devagrawal09)](https://github.com/devagrawal09/jev-review)** — ★366 · TypeScript · Jev 评分 55 · 工具与产品 · ⭐ Jev 精选 — 基于 TypeSafe Jev 的分阶段代码审查工作流 + 本地看板。
+- **[jevbench](https://github.com/fstandhartinger/jevbench)** — ★67 · Python · Jev 评分 55 · 成本与性能 · ⭐ Jev 精选 — JevBench v1 —— Jev 类类型化决策模型的基准测试：智能、廉价、快速、可靠、开放。
+- **[kev](https://github.com/jaredpalmer/kev)** — ★1558 · Python · Jev 评分 54 · 工具与产品 · ⭐ Jev 精选 — 基于 Qwen 的可训练小型 Jev 类决策模型家族，含类型化原语、数据集、评估工具与本地推理。
+- **[NanoJev](https://github.com/TianyuCodings/NanoJev)** — ★1074 · Python · Jev 评分 52 · 成本与性能 · ⭐ Jev 精选 — 开源 0.6B Jev 复刻版：并行决策、完整概率分布、训练管线、权重、数据集与在线演示。
+- **[jev-mcp (jkudish)](https://github.com/jkudish/jev-mcp)** — ★121 · TypeScript · Jev 评分 52 · 工具与产品 — TypeSafe Jev 模型的 MCP 概念验证实现。
+- **[fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — ★4427 · TypeScript · Jev 评分 51 · 工具与产品 — Claude Code 插件：用 Jev 决策替代压缩摘要——一次快速请求内为每次工具调用与结果打分，过时内容被丢弃或截断，保留内容逐字不动。
+- **[open-jev (daseinlabs)](https://github.com/daseinlabs/open-jev)** — ★56 · Python · Jev 评分 51 · 成本与性能 — 受 jevlike 启发，通过 MLX 在 Apple 芯片上用本地 Gemma 3 4B 做单遍选项评分，附带 Doom 演示。
+- **[hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills)** — ★345 · Python · Jev 评分 50 · 工具与产品 · ⭐ Jev 精选 — Hermes 插件与技能套件：用 Jev 做模型路由、技能选择、记忆过滤、上下文压缩与 GUI 操作。
+- **[jev-review (NiazMorshed2007)](https://github.com/NiazMorshed2007/jev-review)** — ★171 · TypeScript · Jev 评分 50 · 工具与产品 · ⭐ Jev 精选 — 由 Jev 驱动的本地优先 MCP 插件，供 AI 编程代理做持续软件质量审查。
+- **[jev-browser-use](https://github.com/wy-coliney/jev-browser-use)** — ★206 · JavaScript · Jev 评分 50 · 工具与产品 — 浏览器操作快 5–10 倍：Jev 负责点击，Codex 负责思考与验证（EZCollegeApp 出品）。
+- **[jev-search](https://github.com/superagents-lab/jev-search)** — ★244 · TypeScript · Jev 评分 49 · 工具与产品 — 用 TypeSafe Jev 搜索网页：信源选择、查询理解与相关性排序（基于 Search1API）。
+- **[jevlike](https://github.com/vinnylarouge/jevlike)** — ★1008 · Python · Jev 评分 47 · 成本与性能 · ⭐ Jev 精选 — 训练一个小模型，在变化的文本选项列表中做选择，单遍输出每个选项的概率；含 Doom、国际象棋与 Wikispeedia 演示。
+- **[jeff](https://github.com/logan-markewich/jeff)** — ★189 · Python · Jev 评分 47 · 工具与产品 · ⭐ Jev 精选 — 自托管的 Jev 兼容 System One 服务器，基于 GLiNER 系列模型，支持批处理与类型化问题。
+- **[jev-lint](https://github.com/mizchi/jev-lint)** — ★55 · TypeScript · Jev 评分 47 · 工具与产品 · ⭐ Jev 精选 — 文本 lint 工具：用 Jev Score 判定按可配置写作规则评估源码内嵌字符串。
+- **[jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser)** — ★126 · JavaScript · Jev 评分 46 · 工具与产品 · ⭐ Jev 精选 — 用语音控制真实浏览器：Jev 每词约 300ms 判定意图与目标，Playwright 执行——往往你说完前就完成了。
+- **[jev-code](https://github.com/devagrawal09/jev-code)** — ★75 · TypeScript · Jev 评分 46 · 工具与产品 · ⭐ Jev 精选 — 面向编程代理的有界 TypeSafe Jev 工作流。
+- **[LocalJev](https://github.com/githubnext/localjev)** — ★662 · TypeScript · Jev 评分 46 · 工具与产品 — 本地 Jev 兼容 System One API：把类型化问题转为 DiffusionGemma 分类提示与概率。
+- **[jev-router (gargpratyush)](https://github.com/gargpratyush/jev-router)** — ★214 · JavaScript · Jev 评分 46 · 工具与产品 — 用 jev-router 在 Claude Code 里为你的任务路由到最便宜的模型。
+- **[jev-browser](https://github.com/jkudish/jev-browser)** — ★155 · TypeScript · Jev 评分 46 · 工具与产品 — 用 TypeSafe Jev 模型做浏览器操作。
+- **[openjev](https://github.com/razorback16/openjev)** — ★142 · Python · Jev 评分 46 · 工具与产品 — 基于 DiffusionGemma 的开放 Jev 兼容 System One 决策服务器。
+- **[mobile-jev](https://github.com/droidrun/mobile-jev)** — ★240 · JavaScript · Jev 评分 44 · 工具与产品 — 面向 Mobilerun 的独立 Android 代理：Jev 做每个决策，附实时 React 工作室与 Uber 演示。
+- **[Simple Jev](https://github.com/featherless-ai/simple-jev)** — ★429 · Python · Jev 评分 43 · 工具与产品 — 开源模型 Jev 风格服务器：读取 next-token logits，返回类型化选择、评分与真值判定。
+- **[jev-trader](https://github.com/jarrodwatts/jev-trader)** — ★1349 · TypeScript · Jev 评分 41 · 工具与产品 · ⭐ Jev 精选 — 每个 Monad 区块一次 AI 交易决策；Jev 运行于 Kuru 的 MON-USDC。
+- **[jev-trade](https://github.com/aowang-ai/jev-trade)** — ★29 · TypeScript · Jev 评分 36 · 工具与产品 — Hyperliquid 上的实时 Jev 交易机器人。
+- **[embodied-jev](https://github.com/FBddcz/embodied-jev)** — ★164 · Python · Jev 评分 35 · 工具与产品 · ⭐ Jev 精选 — EmbodiedJev：基于 MuJoCo 的机器人决策工作台，集成 MiniCPM5-2B、Jev 及兼容模型 API。
+- **[jev-drone](https://github.com/RomanSlack/jev-drone)** — ★77 · Python · Jev 评分 34 · 工具与产品 — MuJoCo 中仅依赖摄像头的自主无人机：小模型（TypeSafe Jev）以 2.5Hz 参与决策环路。
+- **[jev-robot-control](https://github.com/openroboto-ai/jev-robot-control)** — ★38 · Python · Jev 评分 33 · 工具与产品 — MuJoCo xArm7 研究：Jev 根据物理反馈选择运动方向与夹爪动作。
+- **[tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier)** — ★314 · TypeScript · Jev 评分 23 · 内容与营销 — 税务文档分类器：Jev 从提取的 PDF 文本中选出 IRS 表单与页面类型。
+- **[prism-liquidity-agent](https://github.com/irfndi/prism-liquidity-agent)** — ★69 · TypeScript · Jev 评分 18 · 工具与产品 — Solana 流动性代理：可选的 Jev 影子判定用于存款选择、有毒流与市场状态压力。
+- **[hippo-memory](https://github.com/kitfunso/hippo-memory)** — ★752 · TypeScript · Jev 评分 9 · 工具与产品 — 代理记忆库：可选的 Jev 重排序器判定哪些检索到的记忆相关。
 
 ## 其他
 

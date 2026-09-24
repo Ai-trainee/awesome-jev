@@ -9,7 +9,6 @@
 
 ## Contents
 
-- [🛠 Featured Projects](#featured-projects)
 - [🧠 Works as a Skill](#works-as-a-skill)
 - [📦 Installation](#installation)
 - [What is Jev?](#what-is-jev)
@@ -23,42 +22,8 @@
 - [Tutorials & Resources](#tutorials--resources)
 - [Model Routing & Decision-Making](#model-routing--decision-making)
 - [Context Compression](#context-compression)
+- [🛠 Featured Projects](#featured-projects)
 - [Other](#other)
-
-## 🛠 Featured Projects
-
-30 open-source projects curated from the community Jev ecosystem catalog, scored and filtered by Jev, covering tools, routing, browser automation, trading, gaming, and more. Click a project name to open its GitHub repo.
-
-- **[jev-review (devagrawal09)](https://github.com/devagrawal09/jev-review)** — ★366 · TypeScript · Jev score 55 · Tools & Products · ⭐ Jev highlight — A staged code-review workflow and local dashboard built with TypeSafe Jev.
-- **[jevbench](https://github.com/fstandhartinger/jevbench)** — ★67 · Python · Jev score 55 · Cost & Performance · ⭐ Jev highlight — JevBench v1 - a benchmark for Jev-class typed decision models: smart, cheap, fast, reliable, open.
-- **[kev](https://github.com/jaredpalmer/kev)** — ★1558 · Python · Jev score 54 · Tools & Products · ⭐ Jev highlight — Trainable family of small Qwen-based Jev-like decision models with typed primitives, datasets, evaluation tools, and local inference.
-- **[NanoJev](https://github.com/TianyuCodings/NanoJev)** — ★1074 · Python · Jev score 52 · Cost & Performance · ⭐ Jev highlight — Open 0.6B Jev replica with parallel decisions, complete probability distributions, training pipeline, weights, dataset, and live demos.
-- **[jev-mcp (jkudish)](https://github.com/jkudish/jev-mcp)** — ★121 · TypeScript · Jev score 52 · Tools & Products — Proof of concept MCP for Typesafe's new Jev AI model.
-- **[fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — ★4427 · TypeScript · Jev score 51 · Tools & Products — Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
-- **[open-jev (daseinlabs)](https://github.com/daseinlabs/open-jev)** — ★56 · Python · Jev score 51 · Cost & Performance — One-pass option scoring with a local Gemma 3 4B on Apple silicon via MLX, inspired by jevlike, with a Doom demo.
-- **[hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills)** — ★345 · Python · Jev score 50 · Tools & Products · ⭐ Jev highlight — Hermes plugin and skill suite using Jev for model routing, skill selection, memory filtering, compaction, and GUI actions.
-- **[jev-review (NiazMorshed2007)](https://github.com/NiazMorshed2007/jev-review)** — ★171 · TypeScript · Jev score 50 · Tools & Products · ⭐ Jev highlight — Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.
-- **[jev-browser-use](https://github.com/wy-coliney/jev-browser-use)** — ★206 · JavaScript · Jev score 50 · Tools & Products — 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.
-- **[jev-search](https://github.com/superagents-lab/jev-search)** — ★244 · TypeScript · Jev score 49 · Tools & Products — Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API.
-- **[jevlike](https://github.com/vinnylarouge/jevlike)** — ★1008 · Python · Jev score 47 · Cost & Performance · ⭐ Jev highlight — Train a small model that chooses among a changing list of text options, one probability per option in a single pass. Includes Doom, chess, and Wikispeedia demos.
-- **[jeff](https://github.com/logan-markewich/jeff)** — ★189 · Python · Jev score 47 · Tools & Products · ⭐ Jev highlight — Self-hosted Jev-compatible System One server backed by GLiNER-family models, with batching and typed question support.
-- **[jev-lint](https://github.com/mizchi/jev-lint)** — ★55 · TypeScript · Jev score 47 · Tools & Products · ⭐ Jev highlight — Text linter that uses Jev Score judgments to evaluate strings embedded in source code against configurable writing rules.
-- **[jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser)** — ★126 · JavaScript · Jev score 46 · Tools & Products · ⭐ Jev highlight — Control a real browser by voice. Jev (TypeSafe System One) decides intent + target in ~300 ms per spoken word; Playwright acts — often before you finish the sentence.
-- **[jev-code](https://github.com/devagrawal09/jev-code)** — ★75 · TypeScript · Jev score 46 · Tools & Products · ⭐ Jev highlight — Bounded TypeSafe Jev workflows for coding agents.
-- **[LocalJev](https://github.com/githubnext/localjev)** — ★662 · TypeScript · Jev score 46 · Tools & Products — Local Jev-compatible System One API that converts typed questions into DiffusionGemma classification prompts and probabilities.
-- **[jev-router (gargpratyush)](https://github.com/gargpratyush/jev-router)** — ★214 · JavaScript · Jev score 46 · Tools & Products — Route to the cheapest model in claude code for your task using jev-router.
-- **[jev-browser](https://github.com/jkudish/jev-browser)** — ★155 · TypeScript · Jev score 46 · Tools & Products — Browser use using Typesafe's Jev model.
-- **[openjev](https://github.com/razorback16/openjev)** — ★142 · Python · Jev score 46 · Tools & Products — Open, Jev-compatible System One decision server on DiffusionGemma.
-- **[mobile-jev](https://github.com/droidrun/mobile-jev)** — ★240 · JavaScript · Jev score 44 · Tools & Products — Standalone Android agent for Mobilerun where Jev makes every decision, with a live React studio and an Uber demo.
-- **[Simple Jev](https://github.com/featherless-ai/simple-jev)** — ★429 · Python · Jev score 43 · Tools & Products — Open-model Jev-style server that reads next-token logits to return typed choices, rubric scores, and truth judgments.
-- **[jev-trader](https://github.com/jarrodwatts/jev-trader)** — ★1349 · TypeScript · Jev score 41 · Tools & Products · ⭐ Jev highlight — One AI trade decision every Monad block. Jev on Kuru MON-USDC.
-- **[jev-trade](https://github.com/aowang-ai/jev-trade)** — ★29 · TypeScript · Jev score 36 · Tools & Products — Live Jev trader on Hyperliquid.
-- **[embodied-jev](https://github.com/FBddcz/embodied-jev)** — ★164 · Python · Jev score 35 · Tools & Products · ⭐ Jev highlight — EmbodiedJev: MuJoCo robot decision workbench with MiniCPM5-2B, Jev and compatible model APIs
-- **[jev-drone](https://github.com/RomanSlack/jev-drone)** — ★77 · Python · Jev score 34 · Tools & Products — Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev) in the loop at 2.5Hz.
-- **[jev-robot-control](https://github.com/openroboto-ai/jev-robot-control)** — ★38 · Python · Jev score 33 · Tools & Products — MuJoCo xArm7 study where Jev chooses movement directions and gripper actions from physical feedback.
-- **[tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier)** — ★314 · TypeScript · Jev score 23 · Content & Marketing — Tax-document classifier where Jev selects an IRS form and page kind from extracted PDF text.
-- **[prism-liquidity-agent](https://github.com/irfndi/prism-liquidity-agent)** — ★69 · TypeScript · Jev score 18 · Tools & Products — Solana liquidity agent with optional Jev shadow judgments for deposit choice, toxic flow, and market-regime stress.
-- **[hippo-memory](https://github.com/kitfunso/hippo-memory)** — ★752 · TypeScript · Jev score 9 · Tools & Products — Agent memory library with an optional Jev reranker that judges which retrieved memories are relevant.
 
 ## 🧠 Works as a Skill
 
@@ -380,6 +345,41 @@ Many people don't know what Jev can actually do. These 68 posts + 30 open-source
   ![](images/53.png)
   [🔗 View on X](https://x.com/claudecode84/status/2100810733076590784)
 
+
+## 🛠 Featured Projects
+
+30 open-source projects curated from the community Jev ecosystem catalog, scored and filtered by Jev, covering tools, routing, browser automation, trading, gaming, and more. Click a project name to open its GitHub repo.
+
+- **[jev-review (devagrawal09)](https://github.com/devagrawal09/jev-review)** — ★366 · TypeScript · Jev score 55 · Tools & Products · ⭐ Jev highlight — A staged code-review workflow and local dashboard built with TypeSafe Jev.
+- **[jevbench](https://github.com/fstandhartinger/jevbench)** — ★67 · Python · Jev score 55 · Cost & Performance · ⭐ Jev highlight — JevBench v1 - a benchmark for Jev-class typed decision models: smart, cheap, fast, reliable, open.
+- **[kev](https://github.com/jaredpalmer/kev)** — ★1558 · Python · Jev score 54 · Tools & Products · ⭐ Jev highlight — Trainable family of small Qwen-based Jev-like decision models with typed primitives, datasets, evaluation tools, and local inference.
+- **[NanoJev](https://github.com/TianyuCodings/NanoJev)** — ★1074 · Python · Jev score 52 · Cost & Performance · ⭐ Jev highlight — Open 0.6B Jev replica with parallel decisions, complete probability distributions, training pipeline, weights, dataset, and live demos.
+- **[jev-mcp (jkudish)](https://github.com/jkudish/jev-mcp)** — ★121 · TypeScript · Jev score 52 · Tools & Products — Proof of concept MCP for Typesafe's new Jev AI model.
+- **[fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — ★4427 · TypeScript · Jev score 51 · Tools & Products — Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
+- **[open-jev (daseinlabs)](https://github.com/daseinlabs/open-jev)** — ★56 · Python · Jev score 51 · Cost & Performance — One-pass option scoring with a local Gemma 3 4B on Apple silicon via MLX, inspired by jevlike, with a Doom demo.
+- **[hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills)** — ★345 · Python · Jev score 50 · Tools & Products · ⭐ Jev highlight — Hermes plugin and skill suite using Jev for model routing, skill selection, memory filtering, compaction, and GUI actions.
+- **[jev-review (NiazMorshed2007)](https://github.com/NiazMorshed2007/jev-review)** — ★171 · TypeScript · Jev score 50 · Tools & Products · ⭐ Jev highlight — Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.
+- **[jev-browser-use](https://github.com/wy-coliney/jev-browser-use)** — ★206 · JavaScript · Jev score 50 · Tools & Products — 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.
+- **[jev-search](https://github.com/superagents-lab/jev-search)** — ★244 · TypeScript · Jev score 49 · Tools & Products — Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API.
+- **[jevlike](https://github.com/vinnylarouge/jevlike)** — ★1008 · Python · Jev score 47 · Cost & Performance · ⭐ Jev highlight — Train a small model that chooses among a changing list of text options, one probability per option in a single pass. Includes Doom, chess, and Wikispeedia demos.
+- **[jeff](https://github.com/logan-markewich/jeff)** — ★189 · Python · Jev score 47 · Tools & Products · ⭐ Jev highlight — Self-hosted Jev-compatible System One server backed by GLiNER-family models, with batching and typed question support.
+- **[jev-lint](https://github.com/mizchi/jev-lint)** — ★55 · TypeScript · Jev score 47 · Tools & Products · ⭐ Jev highlight — Text linter that uses Jev Score judgments to evaluate strings embedded in source code against configurable writing rules.
+- **[jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser)** — ★126 · JavaScript · Jev score 46 · Tools & Products · ⭐ Jev highlight — Control a real browser by voice. Jev (TypeSafe System One) decides intent + target in ~300 ms per spoken word; Playwright acts — often before you finish the sentence.
+- **[jev-code](https://github.com/devagrawal09/jev-code)** — ★75 · TypeScript · Jev score 46 · Tools & Products · ⭐ Jev highlight — Bounded TypeSafe Jev workflows for coding agents.
+- **[LocalJev](https://github.com/githubnext/localjev)** — ★662 · TypeScript · Jev score 46 · Tools & Products — Local Jev-compatible System One API that converts typed questions into DiffusionGemma classification prompts and probabilities.
+- **[jev-router (gargpratyush)](https://github.com/gargpratyush/jev-router)** — ★214 · JavaScript · Jev score 46 · Tools & Products — Route to the cheapest model in claude code for your task using jev-router.
+- **[jev-browser](https://github.com/jkudish/jev-browser)** — ★155 · TypeScript · Jev score 46 · Tools & Products — Browser use using Typesafe's Jev model.
+- **[openjev](https://github.com/razorback16/openjev)** — ★142 · Python · Jev score 46 · Tools & Products — Open, Jev-compatible System One decision server on DiffusionGemma.
+- **[mobile-jev](https://github.com/droidrun/mobile-jev)** — ★240 · JavaScript · Jev score 44 · Tools & Products — Standalone Android agent for Mobilerun where Jev makes every decision, with a live React studio and an Uber demo.
+- **[Simple Jev](https://github.com/featherless-ai/simple-jev)** — ★429 · Python · Jev score 43 · Tools & Products — Open-model Jev-style server that reads next-token logits to return typed choices, rubric scores, and truth judgments.
+- **[jev-trader](https://github.com/jarrodwatts/jev-trader)** — ★1349 · TypeScript · Jev score 41 · Tools & Products · ⭐ Jev highlight — One AI trade decision every Monad block. Jev on Kuru MON-USDC.
+- **[jev-trade](https://github.com/aowang-ai/jev-trade)** — ★29 · TypeScript · Jev score 36 · Tools & Products — Live Jev trader on Hyperliquid.
+- **[embodied-jev](https://github.com/FBddcz/embodied-jev)** — ★164 · Python · Jev score 35 · Tools & Products · ⭐ Jev highlight — EmbodiedJev: MuJoCo robot decision workbench with MiniCPM5-2B, Jev and compatible model APIs
+- **[jev-drone](https://github.com/RomanSlack/jev-drone)** — ★77 · Python · Jev score 34 · Tools & Products — Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev) in the loop at 2.5Hz.
+- **[jev-robot-control](https://github.com/openroboto-ai/jev-robot-control)** — ★38 · Python · Jev score 33 · Tools & Products — MuJoCo xArm7 study where Jev chooses movement directions and gripper actions from physical feedback.
+- **[tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier)** — ★314 · TypeScript · Jev score 23 · Content & Marketing — Tax-document classifier where Jev selects an IRS form and page kind from extracted PDF text.
+- **[prism-liquidity-agent](https://github.com/irfndi/prism-liquidity-agent)** — ★69 · TypeScript · Jev score 18 · Tools & Products — Solana liquidity agent with optional Jev shadow judgments for deposit choice, toxic flow, and market-regime stress.
+- **[hippo-memory](https://github.com/kitfunso/hippo-memory)** — ★752 · TypeScript · Jev score 9 · Tools & Products — Agent memory library with an optional Jev reranker that judges which retrieved memories are relevant.
 
 ## Other
 
