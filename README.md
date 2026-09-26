@@ -1,11 +1,11 @@
 # awesome-jev
 [English version →](README_EN.md)
 
-![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![项目](https://img.shields.io/badge/projects-30-purple) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
+![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![项目](https://img.shields.io/badge/projects-43-purple) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
 **全网 JEV 玩法案例库 · 持续更新中** —— 收录来自 X / 博客 / 论坛 / 论文等全网的 Jev 实战用法，并精选 30 个开源项目，不只限 X 平台。
 
-📊 68 条帖子 + 30 个开源项目 · 9 大应用场景 · 50 条 Jev 精选
+📊 68 条帖子 + 43 个开源项目 · 9 大应用场景 · 50 条 Jev 精选
 
 ## 目录
 
@@ -27,17 +27,17 @@
 
 ## <a id="skill-usage"></a>🧠 可作 Skill 使用
 
-> 本仓库**不只是一个清单，更是一个可被模型 / Agent 直接加载的 JEV 技能包**——仓库根目录即 Skill 包，自带 `SKILL.md` 与 `references/index.json`（98 条案例数据：68 帖 + 30 项目）。
+> 本仓库**不只是一个清单，更是一个可被模型 / Agent 直接加载的 JEV 技能包**——仓库根目录即 Skill 包，自带 `SKILL.md` 与 `references/index.json`（111 条案例数据：68 帖 + 43 项目）。
 
 任何 Agent 都可以把本仓库当作「JEV 用法参考库」直接加载：**即便用户没有主动说想怎么用 Jev，Agent 也能依据这里的真实案例，主动推荐合适的玩法模式**，而不是干巴巴回一句"Jev 是个小模型"。
 
 它的工作方式很简单：
 
-1. Agent 读取根目录 `SKILL.md`，再加载 `references/index.json` 拿到 98 条案例（68 帖 + 30 项目）与 9 大场景索引；
+1. Agent 读取根目录 `SKILL.md`，再加载 `references/index.json` 拿到 111 条案例（68 帖 + 43 项目）与 9 大场景索引；
 2. 按用户意图跳到对应场景，优先挑出 ⭐ Jev 精选 + 高评分案例；
 3. 结合 `images/` 里的原帖截图与原始 X 链接，为用户生成具体、可落地的玩法建议。
 
-换句话说，这 98 条案例（68 帖 + 30 项目）既是给人看的收藏夹，也是可以直接喂给 Agent 的「Jev 玩法说明书」。
+换句话说，这 111 条案例（68 帖 + 43 项目）既是给人看的收藏夹，也是可以直接喂给 Agent 的「Jev 玩法说明书」。
 
 ## <a id="installation"></a>📦 安装
 
@@ -347,7 +347,7 @@ Jev 是一个轻量、毫秒级执行模型，常与大模型配对，构成「�
 
 ## <a id="open-source-projects"></a>⭐ 开源项目精选
 
-以下 30 个开源项目精选自社区 Jev 生态目录，经 Jev 独立评分筛选，覆盖工具、路由、浏览器、交易、游戏等场景。点击项目名跳转 GitHub。
+以下 43 个开源项目精选自社区 Jev 生态目录，经 Jev 独立评分筛选，覆盖工具、路由、浏览器、交易、游戏等场景。点击项目名跳转 GitHub。
 
 - **[jev-review (devagrawal09)](https://github.com/devagrawal09/jev-review)** — ★366 · TypeScript · Jev 评分 55 · 工具与产品 · ⭐ Jev 精选 — 基于 TypeSafe Jev 的分阶段代码审查工作流 + 本地看板。
 - **[jevbench](https://github.com/fstandhartinger/jevbench)** — ★67 · Python · Jev 评分 55 · 成本与性能 · ⭐ Jev 精选 — JevBench v1 —— Jev 类类型化决策模型的基准测试：智能、廉价、快速、可靠、开放。
@@ -379,6 +379,19 @@ Jev 是一个轻量、毫秒级执行模型，常与大模型配对，构成「�
 - **[tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier)** — ★314 · TypeScript · Jev 评分 23 · 内容与营销 — 税务文档分类器：Jev 从提取的 PDF 文本中选出 IRS 表单与页面类型。
 - **[prism-liquidity-agent](https://github.com/irfndi/prism-liquidity-agent)** — ★69 · TypeScript · Jev 评分 18 · 工具与产品 — Solana 流动性代理：可选的 Jev 影子判定用于存款选择、有毒流与市场状态压力。
 - **[hippo-memory](https://github.com/kitfunso/hippo-memory)** — ★752 · TypeScript · Jev 评分 9 · 工具与产品 — 代理记忆库：可选的 Jev 重排序器判定哪些检索到的记忆相关。
+- **[Jev Ultrafast](https://github.com/browser-use/jev-ultrafast)** — ★9291 · Python · Jev 评分 98 · 架构与方法 · ⭐ Jev 精选 — Browser Use 的极速代理：Jev 在一次请求中同时选出操作和 DOM 元素；仅在需要输入文字时才调用小 LLM。
+- **[Jev-cu](https://github.com/Sac-Y/Jev-cu)** — ★584 · JavaScript · Jev 评分 98 · 架构与方法 · ⭐ Jev 精选 — 把 Computer Use 的「下一步点哪里」交给 Jev（TypeSafe System One）：Jev 从界面文字候选中选元素、动作、完成度与风险，Codex Computer Use 负责读取界面与执行，本地策略门槛拦截敏感操作。
+- **[vexjoy-agent](https://github.com/notque/vexjoy-agent)** — ★423 · Python · Jev 评分 83 · 工具与产品 · ⭐ Jev 精选 — VexJoy AI Agent，内置 Jev 智能路由：/do 命令将自然语言请求路由到合适的专属 Agent，并通过评审、测试和学习循环把控工作质量。
+- **[open-jev-typed-decision-engine](https://github.com/intikhab49/open-jev-typed-decision-engine)** — ★40 · Python · Jev 评分 82 · 成本与性能 · ⭐ Jev 精选 — TypeSafe Jev 的开源复现：150M 参数的类型化决策引擎（单次非自回归输出 noul/choice/score，带校准置信度）。准确率 0.697 vs Jev 0.727，校准度提升 2.5 倍，速度快 4 倍，免费。在 Colab T4 上 30 分钟即可训练。
+- **[pi-jev (y0usaf)](https://github.com/y0usaf/pi-jev)** — ★92 · TypeScript · Jev 评分 80 · 工具与产品 · ⭐ Jev 精选 — 将 TypeSafe Jev 用作 Pi 编码 Agent 的决策层：带度量的工具调用门控，加上 jev_ask 提供类型化、校准后的答案。
+- **[Jev-as-Policy](https://github.com/YuanKJing/Jev-as-Policy)** — ★34 · Python · Jev 评分 78 · 工具与产品 · ⭐ Jev 精选 — 备受期待的 JEV as Policy 开源仓库，支持一键搭建仿真环境。Astra + JEV 在 RoboTwin 等基准上的评测结果也即将发布。
+- **[jev-skill-suggester](https://github.com/win4r/jev-skill-suggester)** — ★32 · Python · Jev 评分 74 · 工具与产品 · ⭐ Jev 精选 — 用 TypeSafe Jev 推荐已安装的 Skill。提供 Python CLI、Codex skill、双语文档和实时示例。
+- **[jev-align](https://github.com/sutro-sh/jev-align)** — ★278 · Python · Jev 评分 73 · 架构与方法 · ⭐ Jev 精选 — 利用 Jev 和 GEPA 从人类反馈中构建带校准的 AI Functions。
+- **[jev-semgrep](https://github.com/uehaj/jev-semgrep)** — ★125 · JavaScript · Jev 评分 73 · 工具与产品 · ⭐ Jev 精选 — 按语义搜索的 grep，跨语言支持。TypeSafe Jev 对每一行进行语义打分，支持 AND/OR/NOT 组合语义，可用日语搜英语、英语搜日语。
+- **[Jev-X-Sentiment-Analysis](https://github.com/brainstormity/Jev-X-Sentiment-Analysis)** — ★162 · Python · Jev 评分 66 · 工具与产品 · ⭐ Jev 精选 — 由 TypeSafe AI 的 System One 模型（Jev）驱动的按需加密市场情报与决策支持终端。
+- **[jev-pruner](https://github.com/tamaratran/jev-pruner)** — ★130 · TypeScript · Jev 评分 66 · 工具与产品 · ⭐ Jev 精选 — Claude Code 和 Codex 钩子：在将长 shell 输出送入模型上下文之前，让 Jev 判断哪些部分仍然相关。
+- **[jev-seo](https://github.com/AgriciDaniel/jev-seo)** — ★31 · Python · Jev 评分 58 · 内容与营销 · ⭐ Jev 精选 — 输入一个首页 URL 即可对任意网站进行实时 SEO 审计，由 Jev 评判。支持 PDF、XLSX 和 Markdown 报告输出。
+- **[jev-visual](https://github.com/hr98w/jev-visual)** — ★150 · Python · Jev 评分 52 · 架构与方法 — 在 Apple Silicon 上运行的教学型 Jev 类可视化推理实验：共享上下文、直接候选打分和本地可视化演示。
 
 ## 其他
 
