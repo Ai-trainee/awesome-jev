@@ -1,11 +1,11 @@
 # awesome-jev
 [中文版 →](README.md)
 
-![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![项目](https://img.shields.io/badge/projects-55-purple) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
+![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![项目](https://img.shields.io/badge/projects-56-purple) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
-**The comprehensive JEV playbook · continuously updated** — real-world Jev usage and 55 featured open-source projects curated from X, blogs, forums, papers, and more (not limited to X).
+**The comprehensive JEV playbook · continuously updated** — real-world Jev usage and 56 featured open-source projects curated from X, blogs, forums, papers, and more (not limited to X).
 
-📊 68 posts + 55 open-source projects · 9 application scenes · 50 Jev highlights
+📊 68 posts + 56 open-source projects · 9 application scenes · 50 Jev highlights
 
 <p align="center">
   <img src="assets/stats.svg" alt="awesome-jev 生态总览 · Ecosystem Overview" width="100%">
@@ -31,17 +31,17 @@
 
 ## <a id="skill-usage"></a>🧠 Works as a Skill
 
-> This repo is **not just a list — it is a JEV skill pack that models and agents can load directly**: the repo root itself is the skill package, shipping with `SKILL.md` and `references/index.json` (123 curated cases: 68 posts + 55 projects).
+> This repo is **not just a list — it is a JEV skill pack that models and agents can load directly**: the repo root itself is the skill package, shipping with `SKILL.md` and `references/index.json` (124 curated cases: 68 posts + 56 projects).
 
 Any agent can load this repository as a "JEV usage reference library" straight into its context. **Even when the user never says how they want to use Jev, the agent can proactively suggest the right play patterns** based on the real cases collected here — instead of just replying "Jev is a small model."
 
 The workflow is straightforward:
 
-1. The agent reads the root `SKILL.md`, then loads `references/index.json` for all 123 cases (68 posts + 55 projects) and the 9-scene index;
+1. The agent reads the root `SKILL.md`, then loads `references/index.json` for all 124 cases (68 posts + 56 projects) and the 9-scene index;
 2. It jumps to the scene matching the user's intent and prioritizes ⭐ Jev highlight + high-score cases;
 3. It combines the `images/` screenshots with the original X links to generate concrete, actionable suggestions.
 
-In short, these 123 cases (68 posts + 55 projects) are both a human-readable collection and a "Jev playbook" that can be fed directly to any agent.
+In short, these 124 cases (68 posts + 56 projects) are both a human-readable collection and a "Jev playbook" that can be fed directly to any agent.
 
 ## <a id="installation"></a>📦 Installation
 
@@ -52,7 +52,7 @@ In short, these 123 cases (68 posts + 55 projects) are both a human-readable col
 > 2. Verify the root of the cloned folder contains SKILL.md;
 > 3. Load and activate the Skill, then tell me what it can do and how to use it.
 
-Once installed, any agent that scans for root-level `SKILL.md` will pick it up automatically — it reads `references/index.json` (123 cases: 68 posts + 55 projects) + `images/` and proactively suggests Jev play patterns, no extra config needed.
+Once installed, any agent that scans for root-level `SKILL.md` will pick it up automatically — it reads `references/index.json` (124 cases: 68 posts + 56 projects) + `images/` and proactively suggests Jev play patterns, no extra config needed.
 
 
 ## What is Jev?
@@ -61,7 +61,7 @@ Jev is a lightweight, millisecond-scale execution model, often paired with a lar
 
 ## Why this list
 
-Many people don't know what Jev can actually do. These 68 posts + 55 open-source projects show typical playbooks across browser automation, gaming, trading, model routing and more. When a user does not specify a scene, this list can be used to proactively suggest the right pattern. The screenshots here are used as an index only; copyright belongs to the original authors.
+Many people don't know what Jev can actually do. These 68 posts + 56 open-source projects show typical playbooks across browser automation, gaming, trading, model routing and more. When a user does not specify a scene, this list can be used to proactively suggest the right pattern. The screenshots here are used as an index only; copyright belongs to the original authors.
 
 ## Browser & Computer Automation
 
@@ -352,7 +352,7 @@ Many people don't know what Jev can actually do. These 68 posts + 55 open-source
 
 ## <a id="open-source-projects"></a>⭐ Featured Projects
 
-55 open-source projects curated from the community Jev ecosystem catalog, scored and filtered by Jev, covering tools, routing, browser automation, trading, gaming, and more. Click a project name to open its GitHub repo.
+56 open-source projects curated from the community Jev ecosystem catalog, scored and filtered by Jev, covering tools, routing, browser automation, trading, gaming, and more. Click a project name to open its GitHub repo.
 
 - **[jev-review (devagrawal09)](https://github.com/devagrawal09/jev-review)** — ★366 · TypeScript · Jev score 55 · Tools & Products · ⭐ Jev highlight — A staged code-review workflow and local dashboard built with TypeSafe Jev.
 - **[jevbench](https://github.com/fstandhartinger/jevbench)** — ★67 · Python · Jev score 55 · Cost & Performance · ⭐ Jev highlight — JevBench v1 - a benchmark for Jev-class typed decision models: smart, cheap, fast, reliable, open.
@@ -409,6 +409,7 @@ Many people don't know what Jev can actually do. These 68 posts + 55 open-source
 - **[warrenduffer](https://github.com/arimanyus/warrenduffer)** — ★82 · TypeScript · Jev score 62 · Tools & Products · ⭐ Jev highlight — Intraday trading bot where Jev ranks Nifty 50 candidates and deterministic code controls position sizing and risk.
 - **[PlayJev](https://github.com/OmniJev/PlayJev)** — ★25 · JavaScript · Jev score 57 · Tools & Products · ⭐ Jev highlight — 🚀🚀 A 0.8B JEV-like multimodal model playing GUI games directly from raw pixels.
 - **[refgarden](https://github.com/AlbionaHoti/refgarden)** — ★23 · TypeScript · Jev score 45 · Tools & Products — A spatial reference explorer for creators. Local Jev query choices, metadata highlights and source-linked collections.
+- **[jevos](https://github.com/feder-cr/jev)** — ★880 · Python · Jev score 72 · Tools & Products · ⭐ Jev highlight — Open-source, CPU-only alternative to Jev for yes/no decisions: MiniCPM5 cut to 17 layers with a single-logit head, served as GGUF via llama.cpp, MIT licensed, same wire format as Jev's API.
 
 ## Other
 

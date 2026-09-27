@@ -7,55 +7,55 @@
 <text x="54" y="112" font-size="22" font-weight="700" fill="#0969da">68</text>
 <text x="54" y="132" font-size="12" fill="#57606a">帖子案例 · X Posts</text>
 <rect x="244" y="88" width="192" height="54" rx="10" fill="#ffffff" stroke="#e6e8eb"/>
-<text x="258" y="112" font-size="22" font-weight="700" fill="#0969da">55</text>
+<text x="258" y="112" font-size="22" font-weight="700" fill="#0969da">56</text>
 <text x="258" y="132" font-size="12" fill="#57606a">开源项目 · Projects</text>
 <rect x="448" y="88" width="192" height="54" rx="10" fill="#ffffff" stroke="#e6e8eb"/>
 <text x="462" y="112" font-size="22" font-weight="700" fill="#0969da">9</text>
 <text x="462" y="132" font-size="12" fill="#57606a">应用场景 · Scenes</text>
 <rect x="652" y="88" width="192" height="54" rx="10" fill="#ffffff" stroke="#e6e8eb"/>
-<text x="666" y="112" font-size="22" font-weight="700" fill="#0969da">86</text>
-<text x="666" y="132" font-size="12" fill="#57606a">Jev 精选 · 50 帖 + 36 项</text>
+<text x="666" y="112" font-size="22" font-weight="700" fill="#0969da">87</text>
+<text x="666" y="132" font-size="12" fill="#57606a">Jev 精选 · 50 帖 + 37 项</text>
 <rect x="20" y="164" width="420" height="376" rx="12" fill="#ffffff" stroke="#e6e8eb"/>
 <text x="36" y="192" font-size="14" font-weight="700" fill="#1f2328">应用场景分布 · Scene Distribution</text>
 <text x="36" y="229" font-size="10" fill="#57606a">模型路由与决策</text>
 <rect x="148" y="217" width="200" height="15" rx="4" fill="#5B8FF9"/>
-<text x="354" y="229" font-size="11" font-weight="600" fill="#1f2328">23</text>
-<text x="392" y="229" font-size="9" fill="#8c959f" text-anchor="end">帖14/项9</text>
+<text x="354" y="229" font-size="11" font-weight="600" fill="#1f2328">24</text>
+<text x="392" y="229" font-size="9" fill="#8c959f" text-anchor="end">帖14/项10</text>
 <text x="36" y="257" font-size="10" fill="#57606a">开发与工具</text>
-<rect x="148" y="245" width="165" height="15" rx="4" fill="#5AD8A6"/>
-<text x="319" y="257" font-size="11" font-weight="600" fill="#1f2328">19</text>
+<rect x="148" y="245" width="158" height="15" rx="4" fill="#5AD8A6"/>
+<text x="312" y="257" font-size="11" font-weight="600" fill="#1f2328">19</text>
 <text x="392" y="257" font-size="9" fill="#8c959f" text-anchor="end">帖4/项15</text>
 <text x="36" y="285" font-size="10" fill="#57606a">浏览器与电脑自动化</text>
-<rect x="148" y="273" width="147" height="15" rx="4" fill="#F6BD16"/>
-<text x="301" y="285" font-size="11" font-weight="600" fill="#1f2328">17</text>
+<rect x="148" y="273" width="141" height="15" rx="4" fill="#F6BD16"/>
+<text x="295" y="285" font-size="11" font-weight="600" fill="#1f2328">17</text>
 <text x="392" y="285" font-size="9" fill="#8c959f" text-anchor="end">帖9/项8</text>
 <text x="36" y="313" font-size="10" fill="#57606a">教程与资源</text>
-<rect x="148" y="301" width="95" height="15" rx="4" fill="#E8684A"/>
-<text x="249" y="313" font-size="11" font-weight="600" fill="#1f2328">11</text>
+<rect x="148" y="301" width="91" height="15" rx="4" fill="#E8684A"/>
+<text x="245" y="313" font-size="11" font-weight="600" fill="#1f2328">11</text>
 <text x="392" y="313" font-size="9" fill="#8c959f" text-anchor="end">帖9/项2</text>
 <text x="36" y="341" font-size="10" fill="#57606a">内容分类与SEO</text>
-<rect x="148" y="329" width="95" height="15" rx="4" fill="#6DC8EC"/>
-<text x="249" y="341" font-size="11" font-weight="600" fill="#1f2328">11</text>
+<rect x="148" y="329" width="91" height="15" rx="4" fill="#6DC8EC"/>
+<text x="245" y="341" font-size="11" font-weight="600" fill="#1f2328">11</text>
 <text x="392" y="341" font-size="9" fill="#8c959f" text-anchor="end">帖8/项3</text>
 <text x="36" y="369" font-size="10" fill="#57606a">游戏与实时交互</text>
-<rect x="148" y="357" width="95" height="15" rx="4" fill="#9270CA"/>
-<text x="249" y="369" font-size="11" font-weight="600" fill="#1f2328">11</text>
+<rect x="148" y="357" width="91" height="15" rx="4" fill="#9270CA"/>
+<text x="245" y="369" font-size="11" font-weight="600" fill="#1f2328">11</text>
 <text x="392" y="369" font-size="9" fill="#8c959f" text-anchor="end">帖6/项5</text>
 <text x="36" y="397" font-size="10" fill="#57606a">生态与热度</text>
-<rect x="148" y="385" width="69" height="15" rx="4" fill="#FF9D4D"/>
-<text x="223" y="397" font-size="11" font-weight="600" fill="#1f2328">8</text>
+<rect x="148" y="385" width="66" height="15" rx="4" fill="#FF9D4D"/>
+<text x="220" y="397" font-size="11" font-weight="600" fill="#1f2328">8</text>
 <text x="392" y="397" font-size="9" fill="#8c959f" text-anchor="end">帖8/项0</text>
 <text x="36" y="425" font-size="10" fill="#57606a">交易与金融</text>
-<rect x="148" y="413" width="78" height="15" rx="4" fill="#269A99"/>
-<text x="232" y="425" font-size="11" font-weight="600" fill="#1f2328">9</text>
+<rect x="148" y="413" width="75" height="15" rx="4" fill="#269A99"/>
+<text x="229" y="425" font-size="11" font-weight="600" fill="#1f2328">9</text>
 <text x="392" y="425" font-size="9" fill="#8c959f" text-anchor="end">帖4/项5</text>
 <text x="36" y="453" font-size="10" fill="#57606a">上下文压缩</text>
-<rect x="148" y="441" width="69" height="15" rx="4" fill="#FF99C3"/>
-<text x="223" y="453" font-size="11" font-weight="600" fill="#1f2328">8</text>
+<rect x="148" y="441" width="66" height="15" rx="4" fill="#FF99C3"/>
+<text x="220" y="453" font-size="11" font-weight="600" fill="#1f2328">8</text>
 <text x="392" y="453" font-size="9" fill="#8c959f" text-anchor="end">帖5/项3</text>
 <text x="36" y="481" font-size="10" fill="#57606a">其他</text>
-<rect x="148" y="469" width="52" height="15" rx="4" fill="#B0B0B0"/>
-<text x="206" y="481" font-size="11" font-weight="600" fill="#1f2328">6</text>
+<rect x="148" y="469" width="50" height="15" rx="4" fill="#B0B0B0"/>
+<text x="204" y="481" font-size="11" font-weight="600" fill="#1f2328">6</text>
 <text x="392" y="481" font-size="9" fill="#8c959f" text-anchor="end">帖1/项5</text>
 <rect x="456" y="164" width="404" height="376" rx="12" fill="#ffffff" stroke="#e6e8eb"/>
 <text x="472" y="192" font-size="14" font-weight="700" fill="#1f2328">高星项目 Top 8 · Star Leaders</text>
@@ -91,5 +91,5 @@
 <rect x="472" y="500" width="41" height="13" rx="4" fill="#0969da" opacity="0.85"/>
 <text x="519" y="511" font-size="11" font-weight="700" fill="#1f2328">★1,008</text>
 <text x="844" y="496" font-size="10" fill="#8c959f" text-anchor="end">Python</text>
-<text x="20" y="552" font-size="10" fill="#8c959f">Generated from references/index.json · 68 posts + 55 projects · 9 scenes · 86 Jev highlights</text>
+<text x="20" y="552" font-size="10" fill="#8c959f">Generated from references/index.json · 68 posts + 56 projects · 9 scenes · 87 Jev highlights</text>
 </svg>
