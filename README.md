@@ -1,11 +1,11 @@
 # awesome-jev
 [English version →](README_EN.md)
 
-![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![项目](https://img.shields.io/badge/projects-55-purple) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
+![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![项目](https://img.shields.io/badge/projects-56-purple) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
-**全网 JEV 玩法案例库 · 持续更新中** —— 收录来自 X / 博客 / 论坛 / 论文等全网的 Jev 实战用法，并精选 55 个开源项目，不只限 X 平台。
+**全网 JEV 玩法案例库 · 持续更新中** —— 收录来自 X / 博客 / 论坛 / 论文等全网的 Jev 实战用法，并精选 56 个开源项目，不只限 X 平台。
 
-📊 68 条帖子 + 55 个开源项目 · 9 大应用场景 · 50 条 Jev 精选
+📊 68 条帖子 + 56 个开源项目 · 9 大应用场景 · 50 条 Jev 精选
 
 <p align="center">
   <img src="assets/stats.svg" alt="awesome-jev 生态总览 · Ecosystem Overview" width="100%">
@@ -31,17 +31,17 @@
 
 ## <a id="skill-usage"></a>🧠 可作 Skill 使用
 
-> 本仓库**不只是一个清单，更是一个可被模型 / Agent 直接加载的 JEV 技能包**——仓库根目录即 Skill 包，自带 `SKILL.md` 与 `references/index.json`（123 条案例数据：68 帖 + 55 项目）。
+> 本仓库**不只是一个清单，更是一个可被模型 / Agent 直接加载的 JEV 技能包**——仓库根目录即 Skill 包，自带 `SKILL.md` 与 `references/index.json`（124 条案例数据：68 帖 + 56 项目）。
 
 任何 Agent 都可以把本仓库当作「JEV 用法参考库」直接加载：**即便用户没有主动说想怎么用 Jev，Agent 也能依据这里的真实案例，主动推荐合适的玩法模式**，而不是干巴巴回一句"Jev 是个小模型"。
 
 它的工作方式很简单：
 
-1. Agent 读取根目录 `SKILL.md`，再加载 `references/index.json` 拿到 123 条案例（68 帖 + 55 项目）与 9 大场景索引；
+1. Agent 读取根目录 `SKILL.md`，再加载 `references/index.json` 拿到 124 条案例（68 帖 + 56 项目）与 9 大场景索引；
 2. 按用户意图跳到对应场景，优先挑出 ⭐ Jev 精选 + 高评分案例；
 3. 结合 `images/` 里的原帖截图与原始 X 链接，为用户生成具体、可落地的玩法建议。
 
-换句话说，这 123 条案例（68 帖 + 55 项目）既是给人看的收藏夹，也是可以直接喂给 Agent 的「Jev 玩法说明书」。
+换句话说，这 124 条案例（68 帖 + 56 项目）既是给人看的收藏夹，也是可以直接喂给 Agent 的「Jev 玩法说明书」。
 
 ## <a id="installation"></a>📦 安装
 
@@ -52,7 +52,7 @@
 > 2. 确认克隆后的目录根目录有 SKILL.md 文件；
 > 3. 加载并激活这个 Skill，然后告诉我它能做什么、装好后可以怎么用。
 
-安装后 Agent 扫描到根目录 `SKILL.md` 即自动生效，会读取 `references/index.json`（123 条案例：68 帖 + 55 开源项目）+ `images/` 主动为你推荐 Jev 玩法，无需额外配置。
+安装后 Agent 扫描到根目录 `SKILL.md` 即自动生效，会读取 `references/index.json`（124 条案例：68 帖 + 56 开源项目）+ `images/` 主动为你推荐 Jev 玩法，无需额外配置。
 
 ## Jev 是什么
 
@@ -60,7 +60,7 @@ Jev 是一个轻量、毫秒级执行模型，常与大模型配对，构成「�
 
 ## 为什么有这个清单
 
-很多人不知道 Jev 到底能怎么用。这里用 68 个帖子案例 + 55 个开源项目，展示浏览器自动化、游戏、交易、模型路由等典型玩法。当用户不主动说明场景时，也可据此主动推荐合适的使用模式。仓库中的截图仅作索引之用，版权归原作者所有。
+很多人不知道 Jev 到底能怎么用。这里用 68 个帖子案例 + 56 个开源项目，展示浏览器自动化、游戏、交易、模型路由等典型玩法。当用户不主动说明场景时，也可据此主动推荐合适的使用模式。仓库中的截图仅作索引之用，版权归原作者所有。
 
 ## 浏览器与电脑自动化
 
@@ -351,7 +351,7 @@ Jev 是一个轻量、毫秒级执行模型，常与大模型配对，构成「�
 
 ## <a id="open-source-projects"></a>⭐ 开源项目精选
 
-以下 55 个开源项目精选自社区 Jev 生态目录，经 Jev 独立评分筛选，覆盖工具、路由、浏览器、交易、游戏等场景。点击项目名跳转 GitHub。
+以下 56 个开源项目精选自社区 Jev 生态目录，经 Jev 独立评分筛选，覆盖工具、路由、浏览器、交易、游戏等场景。点击项目名跳转 GitHub。
 
 - **[jev-review (devagrawal09)](https://github.com/devagrawal09/jev-review)** — ★366 · TypeScript · Jev 评分 55 · 工具与产品 · ⭐ Jev 精选 — 基于 TypeSafe Jev 的分阶段代码审查工作流 + 本地看板。
 - **[jevbench](https://github.com/fstandhartinger/jevbench)** — ★67 · Python · Jev 评分 55 · 成本与性能 · ⭐ Jev 精选 — JevBench v1 —— Jev 类类型化决策模型的基准测试：智能、廉价、快速、可靠、开放。
@@ -408,6 +408,7 @@ Jev 是一个轻量、毫秒级执行模型，常与大模型配对，构成「�
 - **[warrenduffer](https://github.com/arimanyus/warrenduffer)** — ★82 · TypeScript · Jev 评分 62 · 工具与产品 · ⭐ Jev 精选 — 日内交易机器人：Jev 对 Nifty 50 候选标的排序，确定性代码控制仓位和风险。
 - **[PlayJev](https://github.com/OmniJev/PlayJev)** — ★25 · JavaScript · Jev 评分 57 · 工具与产品 · ⭐ Jev 精选 — 🚀🚀 一个 0.8B 参数的 JEV 类多模态模型，直接从原始像素玩 GUI 游戏。
 - **[refgarden](https://github.com/AlbionaHoti/refgarden)** — ★23 · TypeScript · Jev 评分 45 · 工具与产品 — 面向创作者的空间引用浏览器，支持本地 Jev 查询选择、元数据高亮和带源链接的收藏集。
+- **[jevos](https://github.com/feder-cr/jev)** — ★880 · Python · Jev 评分 72 · 工具与产品 · ⭐ Jev 精选 — 开源、纯 CPU 版 Jev 是非（yes/no）判断替代：MiniCPM5 裁剪至 17 层并加单 logit 输出头，通过 llama.cpp 以 GGUF 提供服务，MIT 协议，接口与 Jev API 同线格式。
 
 ## 其他
 
