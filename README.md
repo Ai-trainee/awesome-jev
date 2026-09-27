@@ -1,11 +1,11 @@
 # awesome-jev
 [English version →](README_EN.md)
 
-![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![项目](https://img.shields.io/badge/projects-43-purple) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
+![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![项目](https://img.shields.io/badge/projects-55-purple) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
 **全网 JEV 玩法案例库 · 持续更新中** —— 收录来自 X / 博客 / 论坛 / 论文等全网的 Jev 实战用法，并精选 30 个开源项目，不只限 X 平台。
 
-📊 68 条帖子 + 43 个开源项目 · 9 大应用场景 · 50 条 Jev 精选
+📊 68 条帖子 + 55 个开源项目 · 9 大应用场景 · 50 条 Jev 精选
 
 ## 目录
 
@@ -27,17 +27,17 @@
 
 ## <a id="skill-usage"></a>🧠 可作 Skill 使用
 
-> 本仓库**不只是一个清单，更是一个可被模型 / Agent 直接加载的 JEV 技能包**——仓库根目录即 Skill 包，自带 `SKILL.md` 与 `references/index.json`（111 条案例数据：68 帖 + 43 项目）。
+> 本仓库**不只是一个清单，更是一个可被模型 / Agent 直接加载的 JEV 技能包**——仓库根目录即 Skill 包，自带 `SKILL.md` 与 `references/index.json`（123 条案例数据：68 帖 + 55 项目）。
 
 任何 Agent 都可以把本仓库当作「JEV 用法参考库」直接加载：**即便用户没有主动说想怎么用 Jev，Agent 也能依据这里的真实案例，主动推荐合适的玩法模式**，而不是干巴巴回一句"Jev 是个小模型"。
 
 它的工作方式很简单：
 
-1. Agent 读取根目录 `SKILL.md`，再加载 `references/index.json` 拿到 111 条案例（68 帖 + 43 项目）与 9 大场景索引；
+1. Agent 读取根目录 `SKILL.md`，再加载 `references/index.json` 拿到 123 条案例（68 帖 + 55 项目）与 9 大场景索引；
 2. 按用户意图跳到对应场景，优先挑出 ⭐ Jev 精选 + 高评分案例；
 3. 结合 `images/` 里的原帖截图与原始 X 链接，为用户生成具体、可落地的玩法建议。
 
-换句话说，这 111 条案例（68 帖 + 43 项目）既是给人看的收藏夹，也是可以直接喂给 Agent 的「Jev 玩法说明书」。
+换句话说，这 123 条案例（68 帖 + 55 项目）既是给人看的收藏夹，也是可以直接喂给 Agent 的「Jev 玩法说明书」。
 
 ## <a id="installation"></a>📦 安装
 
@@ -347,7 +347,7 @@ Jev 是一个轻量、毫秒级执行模型，常与大模型配对，构成「�
 
 ## <a id="open-source-projects"></a>⭐ 开源项目精选
 
-以下 43 个开源项目精选自社区 Jev 生态目录，经 Jev 独立评分筛选，覆盖工具、路由、浏览器、交易、游戏等场景。点击项目名跳转 GitHub。
+以下 55 个开源项目精选自社区 Jev 生态目录，经 Jev 独立评分筛选，覆盖工具、路由、浏览器、交易、游戏等场景。点击项目名跳转 GitHub。
 
 - **[jev-review (devagrawal09)](https://github.com/devagrawal09/jev-review)** — ★366 · TypeScript · Jev 评分 55 · 工具与产品 · ⭐ Jev 精选 — 基于 TypeSafe Jev 的分阶段代码审查工作流 + 本地看板。
 - **[jevbench](https://github.com/fstandhartinger/jevbench)** — ★67 · Python · Jev 评分 55 · 成本与性能 · ⭐ Jev 精选 — JevBench v1 —— Jev 类类型化决策模型的基准测试：智能、廉价、快速、可靠、开放。
@@ -392,6 +392,18 @@ Jev 是一个轻量、毫秒级执行模型，常与大模型配对，构成「�
 - **[jev-pruner](https://github.com/tamaratran/jev-pruner)** — ★130 · TypeScript · Jev 评分 66 · 工具与产品 · ⭐ Jev 精选 — Claude Code 和 Codex 钩子：在将长 shell 输出送入模型上下文之前，让 Jev 判断哪些部分仍然相关。
 - **[jev-seo](https://github.com/AgriciDaniel/jev-seo)** — ★31 · Python · Jev 评分 58 · 内容与营销 · ⭐ Jev 精选 — 输入一个首页 URL 即可对任意网站进行实时 SEO 审计，由 Jev 评判。支持 PDF、XLSX 和 Markdown 报告输出。
 - **[jev-visual](https://github.com/hr98w/jev-visual)** — ★150 · Python · Jev 评分 52 · 架构与方法 — 在 Apple Silicon 上运行的教学型 Jev 类可视化推理实验：共享上下文、直接候选打分和本地可视化演示。
+- **[jevmlx](https://github.com/bnsd55/jevmlx)** — ★40 · Python · Jev 评分 91 · 架构与方法 · ⭐ Jev 精选 — 在 Apple Silicon 上为任意 MLX 模型提供 Jev 风格的并行受限决策，单次前向传播输出类型化、经 schema 校验的 JSON。
+- **[celesto](https://github.com/CelestoAI/celesto)** — ★958 · Python · Jev 评分 90 · 工具与产品 · ⭐ Jev 精选 — Agent 电脑操作平台，内含可运行的 PR 审查实验室——由 Jev 判断发现的问题是否为新引入、是否有依据、是否可操作。
+- **[jev-arena](https://github.com/NanmiCoder/jev-arena)** — ★96 · JavaScript · Jev 评分 90 · 架构与方法 · ⭐ Jev 精选 — Jev 模型介绍与实测工具：用 Choice / Score / Noul 将自然语言转化为类型化判断和概率，用于分类、评分和路由；支持与 DeepSeek 等模型对比标注、速度和结果，含 CSV/Excel 导入、原速回放和离线报告。
+- **[cua](https://github.com/trycua/cua)** — ★25790 · HTML · Jev 评分 82 · 工具与产品 · ⭐ Jev 精选 — 电脑操作平台，内置 Jev 方案：模型选出一个受限动作候选，由客户端在执行前进行校验。
+- **[jev-recall](https://github.com/samdotmak/jev-recall)** — ★33 · TypeScript · Jev 评分 78 · 工具与产品 · ⭐ Jev 精选 — 按相关性而非相似度检索：用 TypeSafe 的 Jev 过滤 AI 助手的记忆。
+- **[jev-capability-atlas](https://github.com/Zaious/jev-capability-atlas)** — ★24 · Python · Jev 评分 77 · 架构与方法 · ⭐ Jev 精选 — 独立、基于证据的 Jev 能力地图：真实 API 调用回执，而非排行榜。中文为主的双语仓库。
+- **[Jevbridge](https://github.com/tacticocc/Jevbridge)** — ★35 · TypeScript · Jev 评分 75 · 工具与产品 · ⭐ Jev 精选 — ACP 和 MCP 适配器，将 Jev 的类型化决策和电脑操作能力暴露给 Codex、Claude、OpenCode 等 Agent。
+- **[skillranker](https://github.com/Dicklesworthstone/skillranker)** — ★69 · Rust · Jev 评分 73 · 工具与产品 · ⭐ Jev 精选 — 由 TypeSafe.ai 的 Jev 驱动的 Rust CLI，根据实时会话上下文为下一步排序 Agent Skill。含 Claude Code 钩子、结构化 JSON、弃权机制和本地反馈。需要 TypeSafe API key。
+- **[xerj](https://github.com/xerj-org/xerj)** — ★2365 · Rust · Jev 评分 71 · 工具与产品 · ⭐ Jev 精选 — Jev 对每个检索到的文档是否回答了查询进行打分，并据此对搜索结果重新排序。
+- **[warrenduffer](https://github.com/arimanyus/warrenduffer)** — ★82 · TypeScript · Jev 评分 62 · 工具与产品 · ⭐ Jev 精选 — 日内交易机器人：Jev 对 Nifty 50 候选标的排序，确定性代码控制仓位和风险。
+- **[PlayJev](https://github.com/OmniJev/PlayJev)** — ★25 · JavaScript · Jev 评分 57 · 工具与产品 · ⭐ Jev 精选 — 🚀🚀 一个 0.8B 参数的 JEV 类多模态模型，直接从原始像素玩 GUI 游戏。
+- **[refgarden](https://github.com/AlbionaHoti/refgarden)** — ★23 · TypeScript · Jev 评分 45 · 工具与产品 — 面向创作者的空间引用浏览器，支持本地 Jev 查询选择、元数据高亮和带源链接的收藏集。
 
 ## 其他
 
