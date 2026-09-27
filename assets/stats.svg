@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="560" viewBox="0 0 880 560" font-family="Microsoft YaHei, PingFang SC, 'Noto Sans SC', Arial, sans-serif">
+<rect width="880" height="560" fill="#f7f8fa"/>
+<rect x="20" y="20" width="840" height="86" rx="12" fill="#ffffff" stroke="#e6e8eb"/>
+<text x="40" y="50" font-size="22" font-weight="700" fill="#1f2328">awesome-jev 生态总览</text>
+<text x="40" y="74" font-size="12" fill="#656d76">Ecosystem Overview · 全网 JEV 案例库 · 数据来自 references/index.json · 持续更新中</text>
+<rect x="40" y="88" width="192" height="54" rx="10" fill="#ffffff" stroke="#e6e8eb"/>
+<text x="54" y="112" font-size="22" font-weight="700" fill="#0969da">68</text>
+<text x="54" y="132" font-size="12" fill="#57606a">帖子案例 · X Posts</text>
+<rect x="244" y="88" width="192" height="54" rx="10" fill="#ffffff" stroke="#e6e8eb"/>
+<text x="258" y="112" font-size="22" font-weight="700" fill="#0969da">55</text>
+<text x="258" y="132" font-size="12" fill="#57606a">开源项目 · Projects</text>
+<rect x="448" y="88" width="192" height="54" rx="10" fill="#ffffff" stroke="#e6e8eb"/>
+<text x="462" y="112" font-size="22" font-weight="700" fill="#0969da">9</text>
+<text x="462" y="132" font-size="12" fill="#57606a">应用场景 · Scenes</text>
+<rect x="652" y="88" width="192" height="54" rx="10" fill="#ffffff" stroke="#e6e8eb"/>
+<text x="666" y="112" font-size="22" font-weight="700" fill="#0969da">86</text>
+<text x="666" y="132" font-size="12" fill="#57606a">Jev 精选 · 50 帖 + 36 项</text>
+<rect x="20" y="164" width="420" height="376" rx="12" fill="#ffffff" stroke="#e6e8eb"/>
+<text x="36" y="192" font-size="14" font-weight="700" fill="#1f2328">应用场景分布 · Scene Distribution</text>
+<text x="36" y="229" font-size="10" fill="#57606a">模型路由与决策</text>
+<rect x="148" y="217" width="200" height="15" rx="4" fill="#5B8FF9"/>
+<text x="354" y="229" font-size="11" font-weight="600" fill="#1f2328">23</text>
+<text x="392" y="229" font-size="9" fill="#8c959f" text-anchor="end">帖14/项9</text>
+<text x="36" y="257" font-size="10" fill="#57606a">开发与工具</text>
+<rect x="148" y="245" width="165" height="15" rx="4" fill="#5AD8A6"/>
+<text x="319" y="257" font-size="11" font-weight="600" fill="#1f2328">19</text>
+<text x="392" y="257" font-size="9" fill="#8c959f" text-anchor="end">帖4/项15</text>
+<text x="36" y="285" font-size="10" fill="#57606a">浏览器与电脑自动化</text>
+<rect x="148" y="273" width="147" height="15" rx="4" fill="#F6BD16"/>
+<text x="301" y="285" font-size="11" font-weight="600" fill="#1f2328">17</text>
+<text x="392" y="285" font-size="9" fill="#8c959f" text-anchor="end">帖9/项8</text>
+<text x="36" y="313" font-size="10" fill="#57606a">教程与资源</text>
+<rect x="148" y="301" width="95" height="15" rx="4" fill="#E8684A"/>
+<text x="249" y="313" font-size="11" font-weight="600" fill="#1f2328">11</text>
+<text x="392" y="313" font-size="9" fill="#8c959f" text-anchor="end">帖9/项2</text>
+<text x="36" y="341" font-size="10" fill="#57606a">内容分类与SEO</text>
+<rect x="148" y="329" width="95" height="15" rx="4" fill="#6DC8EC"/>
+<text x="249" y="341" font-size="11" font-weight="600" fill="#1f2328">11</text>
+<text x="392" y="341" font-size="9" fill="#8c959f" text-anchor="end">帖8/项3</text>
+<text x="36" y="369" font-size="10" fill="#57606a">游戏与实时交互</text>
+<rect x="148" y="357" width="95" height="15" rx="4" fill="#9270CA"/>
+<text x="249" y="369" font-size="11" font-weight="600" fill="#1f2328">11</text>
+<text x="392" y="369" font-size="9" fill="#8c959f" text-anchor="end">帖6/项5</text>
+<text x="36" y="397" font-size="10" fill="#57606a">生态与热度</text>
+<rect x="148" y="385" width="69" height="15" rx="4" fill="#FF9D4D"/>
+<text x="223" y="397" font-size="11" font-weight="600" fill="#1f2328">8</text>
+<text x="392" y="397" font-size="9" fill="#8c959f" text-anchor="end">帖8/项0</text>
+<text x="36" y="425" font-size="10" fill="#57606a">交易与金融</text>
+<rect x="148" y="413" width="78" height="15" rx="4" fill="#269A99"/>
+<text x="232" y="425" font-size="11" font-weight="600" fill="#1f2328">9</text>
+<text x="392" y="425" font-size="9" fill="#8c959f" text-anchor="end">帖4/项5</text>
+<text x="36" y="453" font-size="10" fill="#57606a">上下文压缩</text>
+<rect x="148" y="441" width="69" height="15" rx="4" fill="#FF99C3"/>
+<text x="223" y="453" font-size="11" font-weight="600" fill="#1f2328">8</text>
+<text x="392" y="453" font-size="9" fill="#8c959f" text-anchor="end">帖5/项3</text>
+<text x="36" y="481" font-size="10" fill="#57606a">其他</text>
+<rect x="148" y="469" width="52" height="15" rx="4" fill="#B0B0B0"/>
+<text x="206" y="481" font-size="11" font-weight="600" fill="#1f2328">6</text>
+<text x="392" y="481" font-size="9" fill="#8c959f" text-anchor="end">帖1/项5</text>
+<rect x="456" y="164" width="404" height="376" rx="12" fill="#ffffff" stroke="#e6e8eb"/>
+<text x="472" y="192" font-size="14" font-weight="700" fill="#1f2328">高星项目 Top 8 · Star Leaders</text>
+<text x="472" y="230" font-size="11" fill="#1f2328">cua</text>
+<rect x="472" y="234" width="210" height="13" rx="4" fill="#0969da" opacity="0.85"/>
+<text x="688" y="245" font-size="11" font-weight="700" fill="#1f2328">★25,790</text>
+<text x="844" y="230" font-size="10" fill="#8c959f" text-anchor="end">HTML</text>
+<text x="472" y="268" font-size="11" fill="#1f2328">Jev Ultrafast</text>
+<rect x="472" y="272" width="126" height="13" rx="4" fill="#0969da" opacity="0.85"/>
+<text x="604" y="283" font-size="11" font-weight="700" fill="#1f2328">★9,291</text>
+<text x="844" y="268" font-size="10" fill="#8c959f" text-anchor="end">Python</text>
+<text x="472" y="306" font-size="11" fill="#1f2328">fast-jev-compaction</text>
+<rect x="472" y="310" width="87" height="13" rx="4" fill="#0969da" opacity="0.85"/>
+<text x="565" y="321" font-size="11" font-weight="700" fill="#1f2328">★4,427</text>
+<text x="844" y="306" font-size="10" fill="#8c959f" text-anchor="end">TypeScript</text>
+<text x="472" y="344" font-size="11" fill="#1f2328">xerj</text>
+<rect x="472" y="348" width="63" height="13" rx="4" fill="#0969da" opacity="0.85"/>
+<text x="541" y="359" font-size="11" font-weight="700" fill="#1f2328">★2,365</text>
+<text x="844" y="344" font-size="10" fill="#8c959f" text-anchor="end">Rust</text>
+<text x="472" y="382" font-size="11" fill="#1f2328">kev</text>
+<rect x="472" y="386" width="51" height="13" rx="4" fill="#0969da" opacity="0.85"/>
+<text x="529" y="397" font-size="11" font-weight="700" fill="#1f2328">★1,558</text>
+<text x="844" y="382" font-size="10" fill="#8c959f" text-anchor="end">Python</text>
+<text x="472" y="420" font-size="11" fill="#1f2328">jev-trader</text>
+<rect x="472" y="424" width="48" height="13" rx="4" fill="#0969da" opacity="0.85"/>
+<text x="526" y="435" font-size="11" font-weight="700" fill="#1f2328">★1,349</text>
+<text x="844" y="420" font-size="10" fill="#8c959f" text-anchor="end">TypeScript</text>
+<text x="472" y="458" font-size="11" fill="#1f2328">NanoJev</text>
+<rect x="472" y="462" width="42" height="13" rx="4" fill="#0969da" opacity="0.85"/>
+<text x="520" y="473" font-size="11" font-weight="700" fill="#1f2328">★1,074</text>
+<text x="844" y="458" font-size="10" fill="#8c959f" text-anchor="end">Python</text>
+<text x="472" y="496" font-size="11" fill="#1f2328">jevlike</text>
+<rect x="472" y="500" width="41" height="13" rx="4" fill="#0969da" opacity="0.85"/>
+<text x="519" y="511" font-size="11" font-weight="700" fill="#1f2328">★1,008</text>
+<text x="844" y="496" font-size="10" fill="#8c959f" text-anchor="end">Python</text>
+<text x="20" y="552" font-size="10" fill="#8c959f">Generated from references/index.json · 68 posts + 55 projects · 9 scenes · 86 Jev highlights</text>
+</svg>

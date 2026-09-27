@@ -3,9 +3,13 @@
 
 ![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![项目](https://img.shields.io/badge/projects-55-purple) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
-**The comprehensive JEV playbook · continuously updated** — real-world Jev usage and 30 featured open-source projects curated from X, blogs, forums, papers, and more (not limited to X).
+**The comprehensive JEV playbook · continuously updated** — real-world Jev usage and 55 featured open-source projects curated from X, blogs, forums, papers, and more (not limited to X).
 
 📊 68 posts + 55 open-source projects · 9 application scenes · 50 Jev highlights
+
+<p align="center">
+  <img src="assets/stats.svg" alt="awesome-jev 生态总览 · Ecosystem Overview" width="100%">
+</p>
 
 ## Contents
 
@@ -27,7 +31,7 @@
 
 ## <a id="skill-usage"></a>🧠 Works as a Skill
 
-> This repo is **not just a list — it is a JEV skill pack that models and agents can load directly**: the repo root itself is the skill package, shipping with `SKILL.md` and `references/index.json` (98 curated cases: 68 posts + 30 projects).
+> This repo is **not just a list — it is a JEV skill pack that models and agents can load directly**: the repo root itself is the skill package, shipping with `SKILL.md` and `references/index.json` (123 curated cases: 68 posts + 55 projects).
 
 Any agent can load this repository as a "JEV usage reference library" straight into its context. **Even when the user never says how they want to use Jev, the agent can proactively suggest the right play patterns** based on the real cases collected here — instead of just replying "Jev is a small model."
 

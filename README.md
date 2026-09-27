@@ -3,9 +3,13 @@
 
 ![持续更新中](https://img.shields.io/badge/status-continuously%20updated-brightgreen) ![帖子](https://img.shields.io/badge/posts-68-blue) ![项目](https://img.shields.io/badge/projects-55-purple) ![Jev精选](https://img.shields.io/badge/Jev%20highlights-50-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
-**全网 JEV 玩法案例库 · 持续更新中** —— 收录来自 X / 博客 / 论坛 / 论文等全网的 Jev 实战用法，并精选 30 个开源项目，不只限 X 平台。
+**全网 JEV 玩法案例库 · 持续更新中** —— 收录来自 X / 博客 / 论坛 / 论文等全网的 Jev 实战用法，并精选 55 个开源项目，不只限 X 平台。
 
 📊 68 条帖子 + 55 个开源项目 · 9 大应用场景 · 50 条 Jev 精选
+
+<p align="center">
+  <img src="assets/stats.svg" alt="awesome-jev 生态总览 · Ecosystem Overview" width="100%">
+</p>
 
 ## 目录
 
@@ -48,7 +52,7 @@
 > 2. 确认克隆后的目录根目录有 SKILL.md 文件；
 > 3. 加载并激活这个 Skill，然后告诉我它能做什么、装好后可以怎么用。
 
-安装后 Agent 扫描到根目录 `SKILL.md` 即自动生效，会读取 `references/index.json`（98 条案例：68 帖 + 30 开源项目）+ `images/` 主动为你推荐 Jev 玩法，无需额外配置。
+安装后 Agent 扫描到根目录 `SKILL.md` 即自动生效，会读取 `references/index.json`（123 条案例：68 帖 + 55 开源项目）+ `images/` 主动为你推荐 Jev 玩法，无需额外配置。
 
 ## Jev 是什么
 
@@ -56,7 +60,7 @@ Jev 是一个轻量、毫秒级执行模型，常与大模型配对，构成「�
 
 ## 为什么有这个清单
 
-很多人不知道 Jev 到底能怎么用。这里用 68 个帖子案例 + 30 个开源项目，展示浏览器自动化、游戏、交易、模型路由等典型玩法。当用户不主动说明场景时，也可据此主动推荐合适的使用模式。仓库中的截图仅作索引之用，版权归原作者所有。
+很多人不知道 Jev 到底能怎么用。这里用 68 个帖子案例 + 55 个开源项目，展示浏览器自动化、游戏、交易、模型路由等典型玩法。当用户不主动说明场景时，也可据此主动推荐合适的使用模式。仓库中的截图仅作索引之用，版权归原作者所有。
 
 ## 浏览器与电脑自动化
 
