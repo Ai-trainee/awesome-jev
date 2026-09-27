@@ -11,6 +11,12 @@
   <img src="assets/stats.svg" alt="awesome-jev 生态总览 · Ecosystem Overview" width="100%">
 </p>
 
+> 📋 **Prefer filtering by scene / score / source?** There is a **live multi-dimensional table copy** (full fields for 87 posts, with switchable views: all posts / grouped by scene / high-value highlights / 50 Jev highlights…):
+>
+> 👉 [**Open the table**](https://z0kdt9b641u.feishu.cn/wiki/QJFvwk8IhiBSLKkmmw5cqosGnBf?renamingWikiNode=true&table=tbleiupTmCl8d0J2&view=vewGNQ8BgW) — easier to organize and browse than Markdown
+
+![Multi-dimensional table preview](assets/bitable-preview.png)
+
 ## Contents
 
 - [🧠 Works as a Skill](#user-content-skill-usage)

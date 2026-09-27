@@ -11,6 +11,12 @@
   <img src="assets/stats.svg" alt="awesome-jev 生态总览 · Ecosystem Overview" width="100%">
 </p>
 
+> 📋 **想按场景 / 评分 / 来源自由筛选浏览？** 这里有一个**实时更新的多维表格副本**（87 条帖子的完整字段，支持视图切换：全部帖子 / 按应用场景分组 / 高价值精选 / Jev 精选 50 条…）：
+>
+> 👉 [**打开多维表格**](https://z0kdt9b641u.feishu.cn/wiki/QJFvwk8IhiBSLKkmmw5cqosGnBf?renamingWikiNode=true&table=tbleiupTmCl8d0J2&view=vewGNQ8BgW) —— 比 Markdown 更好整理和查看
+
+![多维表格预览](assets/bitable-preview.png)
+
 ## 目录
 
 - [🧠 可作 Skill 使用](#user-content-skill-usage)
