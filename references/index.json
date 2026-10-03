@@ -1613,5 +1613,19 @@
   "jev_focus": "工具与产品",
   "scene": "模型路由与决策",
   "note": "社区贡献（PR #1 by feder-cr，作者之一并已披露）。维护者已用 Jev 独立评分：72/100，精选。"
+ },
+ {
+  "type": "project",
+  "name": "WaterSheep",
+  "url": "https://github.com/SamratDuttaOfficial/WaterSheep",
+  "stars": 3,
+  "language": "Python",
+  "description": "Open-weight decision model (Apache-2.0, fine-tuned from ModernBERT-base) that answers yes/no, choice, score and multi-label questions with a probability for every option; it serves the same /v1/systemone API locally and also runs in the browser through ONNX.",
+  "category": "Jev-like models",
+  "jev_score": 0,
+  "jev_highlight": false,
+  "jev_focus": "工具与产品",
+  "scene": "模型路由与决策",
+  "note": "社区贡献（作者本人提交，已披露）。jev_score / jev_highlight 留待维护者用 Jev 独立评分。"
  }
 ]
